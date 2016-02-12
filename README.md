@@ -1,24 +1,16 @@
-## README
+# shakenXstirred
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#### Separate front-end and back-end
+* Separated by client and JSON API
+* Trying rails 5 and the --api flag
+* [Rails5!!](http://github.com/rails/rails)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+##### Dev Env setup
+* Clone it
+* `vagrant up`
+* `vagrant ssh`
+* `cd /srv/shaken_slash_stirred/api`
+* `bundle`
+* `./bin/rails s`
+* `./bin/rake db:create db:migrate db:seed`
+* Check out the back-end [here](http://33.33.33.33:3000)
