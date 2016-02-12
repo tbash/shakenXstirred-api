@@ -1,6 +1,12 @@
 Rails.application.routes.draw do
-  # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
+  # Not giving access via http to
+  # cocktails/ingredients for now
+  # resources :ingredients
+  # resources :cocktails
+  resources :users, only: [:index, :show]
+  mount_devise_token_auth_for 'User', at: 'auth'
 
-  # Serve websocket cable requests in-process
-  # mount ActionCable.server => '/cable'
+  get  '/feed',             to: 'feeds#index'
+  post '/update_inventory', to: 'users#update_inventory'
+  post '/users/:id/follow', to: 'users#follow'
 end

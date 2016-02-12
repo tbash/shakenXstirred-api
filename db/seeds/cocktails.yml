@@ -1,0 +1,187 @@
+- name: 212 
+  recipe: |
+          2 oz. Partida Reposado Tequila
+          2 oz. Ruby Red Grapefruit Juice
+          1 oz. Aperol
+          Shaken - Collins glass
+          Garnish with an orange twist
+          —Aisha Sharpe and Willy Shine, New York, 2008
+
+- name: 20TH CENTURY
+  recipe: |
+          1.5 oz. Plymouth Gin
+          .75 oz. Marie Brizard White Crème de Cacao
+          .75 oz. Lillet Blanc
+          .75 oz. Lemon Juice
+          Shaken - coupe
+          No garnish
+          —W. J. Tarling, Café Royale Cocktail Book, 1937
+
+- name: 21ST CENTURY
+  recipe: |
+          2 oz. Siete Leguas Blanco Tequila
+          .75 oz. Marie Brizard White Crème de Cacao
+          .75 oz. Lemon Juice
+          Shaken - coupe (Pernod-rinsed)
+          No garnish
+          —Jim Meehan, New York, 2007
+
+- name: AGAINST ALL ODDS COCKTAIL
+  recipe: |
+          1.5 oz. Bushmills Irish Whiskey
+          1.5 oz. Channing Daughters Scuttlehole Chardonnay
+          .5 oz. Rothman & Winter Orchard Apricot
+          .25 oz. Rhum Clément Creole Shrubb
+          Stirred - coupe (Mezcal-rinsed)
+          Garnish with a pansy flower
+          —Jim/David/Gerry, Summer 2008
+
+- name: ÁGUIL A AZTECA
+  recipe: |
+          1.5 oz. Jose Cuervo Tradicional Tequila
+          1 oz. Honeydew Melon Juice
+          .25 oz. Canton Ginger Liqueur
+          .25 oz. Rothman & Winter Crème de Violette
+          Shaken - coupe
+          No garnish
+          —Jim Meehan, Summer 2008
+
+- name: AIRMAIL
+  recipe: |
+          1 oz. Banks 5 Island Rum
+          .5 oz. Lime Juice
+          .5 oz. Honey Syrup
+          Shaken - coupe
+          1 oz. Moët Imperial Champagne to top
+          Garnish with a lime wheel
+          —W. C. Whitfield, Here’s How, 1941
+
+- name: ALBERT MATHIEU
+  recipe: |
+          1.5 oz. Plymouth Gin
+          .75 oz. Lillet Blanc
+          .75 oz. Green Chartreuse
+          1 barspoon St. Germain Elderflower Liqueur
+          1 dash Regan’s Orange Bitters
+          Stirred - coupe
+          Garnish with an orange twist
+          —Kevin Martin, Boston, 2009
+
+- name: AMERICANO HIGHBALL
+  recipe: |
+          1.5 oz. Carpano Antica Sweet Vermouth
+          1.5 oz. Campari
+          Build in glass - Collins glass
+          Add ice
+          2.5 oz. Club Soda to top
+          Garnish with half an orange wheel
+          —Leurs Cocktails Par Antoine, 1932
+
+- name: ALGONQUIN
+  recipe: |
+          2 oz. Rittenhouse Bonded Rye Whiskey
+          .75 oz. Dolin Dry Vermouth
+          .75 oz. Pineapple Juice
+          Stirred - coupe
+          No garnish
+          —Selmer Fougner, Along the Wine Trail, 1935
+
+- name: APEROL SPRITZ
+  recipe: |
+          2 oz. Aperol
+          1 oz. Carpenè Malvolti Prosecco
+          1 oz. Club Soda
+          .5 oz. Orange Juice
+          Stirred (in glass) - rocks glass
+          Garnish with half an orange wheel
+          —Classic, Spring 2007
+
+- name: APRICOT FLIP
+  recipe: |
+          2 oz. Hine V.S.O.P. Cognac
+          .75 oz. Rothman & Winter Orchard Apricot
+          .5 oz. Simple Syrup
+          1 Whole Organic Egg
+          Shaken (dry-shake then shake with ice) - fizz glass
+          Garnish with grated nutmeg
+          —John Deragon, Fall 2007
+
+- name: ARCHANGEL
+  recipe: |
+          2.25 oz. Plymouth Gin
+          .75 oz. Aperol
+          2 Slices Cucumber
+          Muddle cucumber and Aperol, add gin and ice
+          Stirred (fine-strained) - coupe
+          Garnish with a lemon twist
+          —Michael McIlroy & Richard Boccato, New York, 2006
+
+- name: ASTORIA BIANCO
+  recipe: |
+          2.5 oz. Tanqueray Gin
+          1 oz. Martini Bianco Vermouth
+          2 dashes House Orange Bitters
+          Stirred - coupe
+          Garnish with an orange twist
+          —Jim Meehan, New York, 2005
+
+- name: AVIATION
+  recipe: |
+          2 oz. Beefeater Gin
+          .75 oz. Lemon Juice
+          .5 oz. Luxardo Maraschino Liqueur
+          .25 oz. Rothman & Winter Crème de Violette
+          Shaken - coupe
+          No garnish
+          —Hugo Ensslin, Recipes for Mixed Drinks, 1916
+
+- name: BEACHBUM
+  recipe: |
+          1 oz. Mount Gay Eclipse Amber Rum
+          1 oz. Flor de Caña Silver Dry Rum
+          1 oz. Pineapple Juice
+          .75 oz. Lime Juice
+          .5 oz. Rothman & Winter Orchard Apricot
+          .5 oz. Kassatly Chtaura Orgeat
+          Shaken - tiki mug filled with ice cubes
+          Garnish with an orange-cherry flag and an umbrella
+          —John Deragon, Winter 2007
+
+- name: BEER AND A SMOKE
+  recipe: |
+          1 oz. Sombra Mezcal
+          .75 oz. Lime Juice
+          1 dash The Bitter Truth Celery Bitters
+          4 dashes Cholula
+          Stirred - Collins glass rimmed with kosher salt, celery salt, and ground black pepper
+          6 oz. Victory Pilsner to top
+          Garnish with orange and lime zest
+          —Jim Meehan, Spring 2009
+
+- name: BEE’S KNEES
+  recipe: |
+          2 oz. Plymouth Gin
+          .75 oz. Lemon Juice
+          .75 oz. Honey Syrup
+          Shaken - coupe
+          No garnish
+          —Frank Meier, The Artistry of Mixing Drinks, 1937
+
+- name: BERLIONI
+  recipe: |
+          1.5 oz. Tanqueray Gin
+          .75 oz. Cynar
+          .5 oz. Noilly Prat Dry Vermouth
+          Stirred - rocks glass (one large ice cube)
+          Garnish with an orange twist
+          —Gonçalo de Sousa Monteiro, Berlin, 2004
+
+- name: BIJOU
+  recipe: |
+          1 oz. Tanqueray Gin
+          1 oz. Dolin Sweet Vermouth
+          1 oz. Green Chartreuse
+          1 dash House Orange Bitters
+          Stirred - coupe
+          Garnish with a cherry and a lemon twist
+          —C. F. Lawlor, The Mixicologist, 1895

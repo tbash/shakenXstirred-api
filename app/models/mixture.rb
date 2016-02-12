@@ -1,0 +1,4 @@
+class Mixture < ApplicationRecord
+  belongs_to :ingredient
+  belongs_to :cocktail
+end

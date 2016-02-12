@@ -1,0 +1,72 @@
+users:
+
+  - email: tb@tbash.co
+    name: tbash
+    password: password
+    password_confirmation: password
+
+  - email: teebash@email.com
+    name: teebash
+    password: password
+    password_confirmation: password
+
+  - email: rick@email.com
+    name: rick
+    password: password
+    password_confirmation: password
+
+  - email: step@email.com
+    name: step
+    password: password
+    password_confirmation: password
+
+  - email: dude@email.com
+    name: dude
+    password: password
+    password_confirmation: password
+
+  - email: bargeek@email.com
+    name: bargeek
+    password: password
+    password_confirmation: password
+
+  - email: nerd@email.com
+    name: nerd
+    password: password
+    password_confirmation: password
+
+users_ingredients:
+
+  - user_id: 1
+    ingredient_id: 6, 22, 29, 1, 9, 3, 19
+  - user_id: 2
+    ingredient_id: 1, 36, 13, 28, 6, 22, 29,  9, 3, 19
+  - user_id: 3
+    ingredient_id: 7, 36, 28
+  - user_id: 4
+    ingredient_id: 37, 46, 43
+  - user_id: 5
+    ingredient_id: 12, 47, 48, 49, 50, 15, 1, 36, 13, 28, 6, 22, 29,  9, 3, 19
+  - user_id: 6
+    ingredient_id: 38, 35
+  - user_id: 7
+    ingredient_id:  1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51
+
+follows:
+
+  - follower_id: 1
+    followee_id: 2
+  - follower_id: 1
+    followee_id: 3
+  - follower_id: 1
+    followee_id: 4
+  - follower_id: 1
+    followee_id: 5
+  - follower_id: 1
+    followee_id: 6
+  - follower_id: 2
+    followee_id: 1
+  - follower_id: 2
+    followee_id: 3
+  - follower_id: 2
+    followee_id: 4
