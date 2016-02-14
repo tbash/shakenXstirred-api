@@ -154,7 +154,7 @@
           .75 oz. Lime Juice
           .5 oz. Schönauer Apfel Schnapps
           .25 oz. Simple Syrup
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           No garnish
           —John Deragon, Fall 2007
 
@@ -164,20 +164,9 @@
           .75 oz. Lemon Juice
           .75 oz. Orange Juice
           .5 oz. Deep Mountain Grade B Maple Syrup
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           No garnish
           —Judge Jr., Here’s How, 1927
-
-- name: APPLE MALT TODDY
-  recipe: |
-          2 oz. Red Jacket Orchards Apple Cider
-          1.5 oz. Chivas Regal 12-Year-Old Blended Scotch Whisky
-          1 oz. Drouhin Pommeau
-          .25 oz. St. Elizabeth Allspice Dram
-          1 barspoon Deep Mountain Grade B Maple Syrup
-          Heat everything and serve in a pre-warmed heatproof mug
-          Garnish with a cinnamon stick
-          —Jim Meehan, Fall 2009
 
 - name: APRICOT FLIP
   recipe: |
@@ -259,25 +248,6 @@
           No garnish
           —Frank Meier, The Artistry of Mixing Drinks, 1937
 
-- name: BENTON’S OLD-FASHIONED
-  recipe: |
-          2 oz. Benton’s Bacon Fat-Infused Four Roses Bourbon
-          .25 oz. Deep Mountain Grade B Maple Syrup
-          2 dashes Angostura Bitters
-          Stirred - rocks glass and one large ice cube
-          Garnish with an orange twist
-          —Don Lee, Winter 2007
-
-          Benton’s Bacon Fat-Infused Four Roses Bourbon
-          1.5 oz. Benton’s Bacon Fat
-          1 750-ml bottle Four Roses Bourbon
-          On low heat, warm bacon fat in a small saucepan.
-          Stir until it melts, about 5 minutes.
-          Combine the molten fat and bourbon in a large nonreactive container and stir.
-          Infuse for 4 hours, then place the container in the freezer for 2 hours.
-          Remove solid fat, fine-strain bourbon through a terry cloth or cheesecloth, and bottle
-          Yields approx. 24 oz.
-
 - name: BERLIONI
   recipe: |
           1.5 oz. Tanqueray Gin
@@ -296,22 +266,6 @@
           Stirred - chilled coupe
           Garnish with grated nutmeg
           —Crosby Gaige, Cocktail Guide and Ladies Companion, 1941
-
-- name: BETULA
-  recipe: |
-          1 oz. Birch-Infused Rittenhouse Bonded Rye Whiskey
-          1 oz. Matusalem Gran Reserva Rum
-          .5 oz. Lemon Juice
-          .5 oz. Deep Mountain Grade B Maple Syrup
-          Shake with ice and strain into a chilled coupe
-          Garnish with a star anise pod
-          —John Deragon, Fall 2007
-          Birch-Infused Rittenhouse
-          1.7 oz. Birch Bark
-          750 ml Rittenhouse Bonded Rye Whiskey
-          Combine the birch bark and rye whiskey in a nonreactive container. Infuse for 12 hours at room temperature
-          Fine-strain and bottle
-          Yield: approx. 24 oz.
 
 - name: BIJOU
   recipe: |
@@ -341,7 +295,9 @@
           .5 oz. Lemon Juice
           .5 oz. Agave Syrup
           4 Blackberries
-          Muddle the blackberries, then add the rest of the ingredients and dry-shake Pour unstrained into a chilled rocks glass filled with pebble ice
+          Muddle the blackberries
+          Add all other ingredients
+          Shaken (dry-shake then shake with ice) - chilled rocks glass filled with pebble ice
           Garnish with a mint sprig
           —Daniel Eun, Summer 2008
 
@@ -351,26 +307,11 @@
           1.5 oz. Cruzan Black Strap Rum
           .5 oz. Demerara Syrup
           1 Whole Organic Egg
-          Add everything to a mixing glass and swirl to decarbonate beer
-          Dry-shake, then shake with ice and strain into a chilled fizz glass
+          Add ingredietns mixing glass
+          Swirl to decarbonate beer
+          Shaken (dry-shake then shake with ice) - chilled fizz glass
           Garnish with grated nutmeg
           —Jim Meehan, Winter 2007
-
-- name: BLACK JACK
-  recipe: |
-          1.5 oz. Pierre Ferrand Ambre Cognac
-          .5 oz. Clear Creek Kirschwasser
-          .5 oz. 9th Street Alphabet City Coffee Concentrate
-          .25 oz. Demerara Syrup
-          Shake with ice and strain into a chilled coupe
-          Garnish with three cherries on a pick
-          —Jacques Straub, Drinks, 1914
-          9th Street Alphabet City Coffee Concentrate
-          80 oz. Filtered Water
-          .5 lb. Coarse-Ground 9th Street Alphabet City Coffee Blend
-          Steep for 12 hours at room temperature using a Toddy Coldbrew System
-          Fine-strain, bottle, and store in the refrigerator
-          Yield: approx. 68 oz.
 
 - name: BLACKSTAR
   recipe: |
@@ -379,7 +320,7 @@
           .75 oz. Grapefruit Juice
           .25 oz. Borsci Sambuca
           .25 oz. Simple Syrup
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           Garnish with a star anise pod
           —Jim Meehan, New York, 2007
 
@@ -418,7 +359,7 @@
           1 oz. Grapefruit Juice
           .25 oz. Simple Syrup
           1 barspoon Bonne Maman Raspberry Preserves
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           No garnish
           —Patrick Gavin Duffy, Official Mixer’s Manual, 1934
 
@@ -428,7 +369,7 @@
           .75 oz. Orange Juice
           .5 oz. Cherry Heering
           .5 oz. Carpano Antica Sweet Vermouth
-          Shake with ice and strain into chilled coupe
+          Shaken - chilled coupe
           No garnish
           —Harry Craddock, The Savoy Cocktail Book, 1930
 
@@ -447,32 +388,8 @@
           .75 oz. Lemon Juice
           .5 oz. Luxardo Maraschino Liqueur
           .5 oz. Marie Brizard Orange Curaçao
-          Shake with ice and strain into a chilled, sugarrimmed wine glass filled with an entire lemon and orange peel
+          Shaken - chilled, sugarrimmed wine glass filled with an entire lemon and orange peel
           —Jerry Thomas, Bar-Tender’s Guide, 1862
-
-- name: BRAZILIAN TEA PUNCH
-  recipe: |
-          2 oz. Sencha Green Tea-Infused Leblon Cachaça
-          1 barspoon Lemongrass Syrup
-          1 Lime Disc (silver-dollar-size twist cut straight off the side of a lime to retain a little flesh with the peel)
-          Squeeze the lime disc on both sides to get all the oil from the peel and juice from the flesh into a chilled rocks glass
-          Add the rest of the ingredients and pebble ice
-          Swizzle, then top with more pebble ice and swizzle again
-          No garnish
-          —Jim Meehan & Michael Klein, Spring 2010
-          Green Tea-Infused Leblon Cachaça
-          1 750-ml bottle Leblon Cachaça
-          1 oz. In Pursuit of Tea Sencha Green Tea
-          Combine the cachaça and tea in a nonreactive
-          container. Infuse for 20 minutes at room temperature
-          Fine-strain and bottle
-          Yield: approx. 25 oz.
-          Lemongrass Syrup
-          32 oz. Simple Syrup
-          8 oz. Chopped Lemongrass
-          Combine ingredients in a large saucepan. Bring to a boil, then reduce to a simmer and simmer for 10 minutes, stirring occasionally. Remove from heat and steep for 10 minutes
-          Fine-strain, bottle, and store in the refrigerator
-          Yield: approx. 26 oz.
 
 - name: BREWER’S BREAKFAST
   recipe: |
@@ -499,7 +416,7 @@
           .75 oz. Orange Juice
           .5 oz. Dolin Dry Vermouth
           .5 oz. Carpano Antica Sweet Vermouth
-          Shake with ice and strain into chilled coupe
+          Shaken - chilled coupe
           No garnish
           —William Boothby, The World’s Drinks and How to Mix Them, 1908
 
@@ -517,7 +434,7 @@
           2 oz. Maker’s Mark Bourbon
           1 oz. Grapefruit Juice
           .75 oz. Honey Syrup
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           No garnish
           —Buzza and Cardozo, Hollywood Cocktails, 1930’s
 
@@ -531,56 +448,14 @@
           No garnish
           —Euclides López, Spring 2009
 
-- name: BUONA NOTTE
-  recipe: |
-          2 oz. Walnut-Infused Hine V.S.O.P. Cognac
-          .5 oz. Yellow Chartreuse
-          .25 oz. Amaro Ciociaro
-          Stirred - chilled rocks glass and one large cube
-          Garnish with an orange twist
-          —John Deragon, Winter 2007
-
-          Walnut-Infused Cognac
-          1 750-ml bottle Hine V.S.O.P. Cognac
-          4 oz. Raw Walnuts
-          Toast walnuts in small saucepan at approx.
-          175° F, turning every 30 seconds.
-          Walnuts are toasted when edges turn brown and black; process will take about 9–10 minutes.
-          Allow walnuts to cool.
-          Combine walnuts with cognac in a large, nonreactive container, then stir, cover, and infuse at room temperature for 48 hours.
-          Fine-strain and bottle
-          Yields approx. 24 oz.
-
-- name: CAFÉ ARROZ
-  recipe: |
-          2 oz. Horchata
-          1.5 oz. Gran Centenario Reposado Tequila
-          .5 oz. Kahlúa
-          Shake with ice and strain into a chilled coupe
-          Garnish with grated cinnamon
-          —Jim Meehan, Spring 2008
-
-          Horchata
-          40 oz. Filtered Water
-          10 oz. Whole Milk
-          8oz. UncookedWhite Long-GrainRice
-          3 Tbsp. Demerara Sugar
-          .5 tsp. Madagascar Bourbon Vanilla Bean Extract
-          .5 tsp. Ground Cinnamon
-          Pour the rice and water into a blender and blend until the rice just begins to break up, about 1 minute.
-          Let the rice and water stand, covered, at room temperature for 12 hours.
-          Strain the rice water into a pitcher and discard the rice (half of the water will be absorbed by the rice).
-          Add the milk, vanilla extract, cinnamon, and sugar to the rice water and blend until the sugar is integrated.
-          Chill and stir before serving.
-          Yields approx. 32 oz.
-
 - name: CAIPIRINHA
   recipe: |
           2 oz. Beleza Pura Cachaça
           half Lime, quartered
           2 barspoons Demerara Sugar (or 2 cubes)
           Muddle the lime and sugar
-          Add the cachaça, then shake with ice and pour unstrained into a chilled rocks glass
+          Add the cachaça
+          Shaken - chilled rocks glass
           No garnish
           —Charles Schumann, Tropical Bar Book, 1989
 
@@ -600,7 +475,7 @@
           1 oz. Jameson Irish Whiskey
           .75 oz. Lemon Juice
           .5 oz. Kassatly Chtaura Orgeat
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           No garnish
           —Harry McElhone, ABC of Mixing Cocktails, 1922
 
@@ -613,7 +488,7 @@
           1 barspoon Bonne Maman
           Apricot Preserves
           1 dash House Orange Bitters
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           Twist a lemon peel over the surface and discard
           —Charlotte Voisey, New York, 2007
 
@@ -633,7 +508,7 @@
           .5 oz. Green Chartreuse
           .25 oz. Simple Syrup
           1 dash Angostura Bitters
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           Garnish with a lemon twist
           —Harry Craddock, The Savoy Cocktail Book, 1930
 
@@ -645,7 +520,7 @@
           .5 oz. Simple Syrup
           3 Pitted Cherries (reserve 1 for garnish)
           Muddle 2 of the cherries with the simple syrup
-          Add everything else, then shake with ice and strain into a chilled rocks glass filled with pebble ice
+          Shaken - rocks glass filled with pebble ice
           Garnish with the reserved cherry
           —Jane Danger, Spring 2009
 
@@ -665,23 +540,9 @@
           1.5 oz. J. M. Rhum Blanc
           .25 oz. Yellow Chartreuse
           2 dashes Angostura Bitters
-          Shake with ice and strain into a chilled fizz glass filled with ice
+          Shaken - chilled fizz glass filled with ice
           Garnish with a lime wheel
           —David Wondrich and Jim Meehan, Spring 2008
-
-- name: CINEMA HIGHBALL
-  recipe: |
-          4.5 oz. Coca-Cola Classic
-          2 oz. Popcorn-Infused Flor de Caña Silver Dry Rum
-          Build in a chilled Collins glass filled with ice cubes
-          No garnish
-          —Don Lee, Winter 2007
-          Buttered Popcorn Infused Rum
-          1 750-ml bottle Flor de Caña Silver Dry Rum
-          1 oz. Fresh Popcorn
-          1 oz. Clarified Butter
-          Combine the popcorn and the rum in a nonreactive container and infuse for 1 hour. Strain through a chinois to remove all solids. Add clarified butter to the popcorn-infused rum, cover, and let infuse for 24 hours at room temperature. Transfer to the freezer and freeze for 4 hours to solidify the butter. Fine-strain and bottle.
-          Yield: approx. 23 oz.
 
 - name: CLOISTER
   recipe: |
@@ -690,7 +551,7 @@
           .5 oz. Grapefruit Juice
           .25 oz. Lemon Juice
           .25 oz. Simple Syrup
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           Garnish with a grapefruit twist
           —Thomas Mario, Playboy’s Host & Bar Book, 1971
 
@@ -701,7 +562,7 @@
           .5oz. Simple Syrup
           1 barspoon Bonne Maman Raspberry Preserves
           1 Egg White
-          Dry-shake, then shake with ice and strain into a chilled egg coupe
+          Shaken (dry-shake then shake with ice) - chilled egg coupe
           No garnish
           —Paul Lowe, Drinks, 1909
 
@@ -711,7 +572,7 @@
           1 oz. Pineapple Juice
           .5 oz. Lime Juice
           1 scoop Ciao Bella Coconut Sorbet
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           Garnish with a lime wheel
           —Jim Meehan, New York, 2006
 
@@ -723,7 +584,7 @@
           .5 oz. St. Elizabeth Allspice Dram
           .5 oz. Demerara Syrup
           1 Whole Organic Egg
-          Dry-shake, then shake with ice and strain into a chilled fizz glass
+          Shaken (dry-shake then shake with ice) - chilled fizz glass
           Garnish with grated nutmeg
           —Daniel Eun, Spring 2008
 
@@ -735,7 +596,7 @@
           .5 oz. Lime Juice
           2 dashes Bitter Truth Celery Bitters
           1/8 tsp. Gulden’s Spicy Brown Mustard
-          Shake with ice and fine-strain into a chilled coupe
+          Shaken - chilled coupe
           Garnish with a lime twist
           —Jim Meehan, Winter 2009
 
@@ -745,7 +606,7 @@
           1.5 oz. Noval Black Port
           .25 oz. Simple Syrup
           1 Whole Organic Egg
-          Dry-shake, then shake with ice and strain into a chilled egg coupe
+          Shaken (dry-shake then shake with ice) - chilled egg coupe
           Garnish with grated nutmeg
           —Jerry Thomas, Bar-Tenders Guide, 1887
 
@@ -758,7 +619,7 @@
           .5 oz. Lime Juice
           2 dashes House Orange Bitters
           1 Egg White
-          Dry-shake, then shake with ice and strain into a chilled egg coupe
+          Shaken (dry-shake then shake with ice) - chilled egg coupe
           No garnish
           —Sam Ross, New York, 2008
 
@@ -769,7 +630,7 @@
           .75 oz. Lime Juice
           .5 oz. Lakewood Cranberry Juice
           .25 oz. Simple Syrup
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           Garnish with an orange twist
           —Cheryl Cooke, Miami, 1985
 
@@ -779,29 +640,9 @@
           .75 oz. Cointreau
           .75 oz. Lillet Blanc
           .75 oz. Lemon Juice
-          Shake with ice and strain into a chilled Vieux Pontarlier Absinthe-rinsed coupe
+          Shaken - chilled Vieux Pontarlier Absinthe-rinsed coupe
           No garnish
           —Harry Craddock, The Savoy Cocktail Book, 1930
-
-- name: CRANBERRY COBBLER
-  recipe: |
-          2 oz. Beefeater Gin
-          .75 oz. Lustau East India Sherry
-          .5 oz. Cranberry Syrup
-          7 Macerated Cranberries (reserve 3 for garnish)
-          1 Orange Wheel
-          1 Lemon Wedge
-          Add the citrus, cranberries and syrup to a mixing glass and muddle
-          Add everything else, then shake with ice and strain into a chilled rocks glass filled with pebble ice
-          Garnish with a mint sprig and three macerated cranberries
-          —Michael Madrusan and Jim Meehan, Winter 2007
-
-          Cranberry Simple
-          Syrup & Macerated Cranberries
-          16 oz. Simple Syrup
-          1 8-oz. bag Cranberries: frozen is fine
-          Heat the simple syrup until it almost boils, then turn the heat down to medium and add the cranberries. Once the skin of the first few cranberries splits, remove from heat and allow to cool. Bottle a portion of the syrup and reserve the rest to store with the cranberries in the refrigerator.
-          Yields approx. 31 oz.
 
 - name: CUZCO
   recipe: |
@@ -810,7 +651,7 @@
           .75 oz. Simple Syrup
           .5 oz. Lemon Juice
           .5 oz. Grapefruit Juice
-          Shake with ice and strain into a chilled Clear Creek Kirschwasser-rinsed Collins glass filled with ice
+          Shaken - chilled Clear Creek Kirschwasser-rinsed Collins glass filled with ice
           Garnish with a grapefruit twist
           —Julie Reiner, Winter 2007
 
@@ -831,7 +672,7 @@
           2 oz. Banks 5 Island Rum
           .75 oz. Lime Juice
           .75 oz. Simple Syrup
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           Garnish with a lime wheel
           —Jacques Straub, Drinks, 1914
 
@@ -845,22 +686,6 @@
           Stirred - chilled coupe
           Garnish with three brandied cherries on a pick
           —Stanley Clisby Arthur, Famous New Orleans Drinks, 1937
-
-- name: DESERT ROSE
-  recipe: |
-          2 oz. Rose-Infused Plymouth Gin
-          .75 oz. Lemon Juice
-          .5 oz. Perfect Purées of Napa Valley Prickly Pear Purée
-          .5 oz. Simple Syrup
-          Shake with ice and strain into a chilled coupe
-          Garnish with a pink rose petal
-          —Artemio Vásquez, Winter 2007
-          Rose-Infused Plymouth Gin
-          1 liter Plymouth Gin
-          1 oz. Dried Rosebud Tea
-          Combine the gin and tea in a nonreactive container. Infuse for 2 hours at room temperature
-          Fine-strain and bottle
-          Yield: approx. 33 oz.
 
 - name: DESHLER
   recipe: |
@@ -897,7 +722,7 @@
           .25 oz. Amaro Ciociaro
           .25 oz. Rothman & Winter Orchard Apricot
           Stirred - chilled coupe
-          Top with 1 oz. Moët Imperial Champagne
+          1 oz. Moët Imperial Champagne to top
           Garnish with a lemon twist
           —David Slape, Winter 2007
 
@@ -927,8 +752,8 @@
           .75 oz. Toro Albalá Pedro Ximénez
           .5 oz. Heavy Cream
           1 Whole Organic Egg
-          Twist a grapefruit peel into a mixing tin
-          Add everything else and dry-shake. Shake with ice and strain into a chilled coupe
+          Twist a grapefruit peel into a mixing glass
+          Shaken (dry-shake then shake with ice) - chilled coupe
           Garnish with grated cinnamon
           —Jim Meehan, Winter 2008
 
@@ -939,7 +764,7 @@
           .5 oz. Pineapple Juice
           .25 oz. Pampero Aniversario Rum
           2 dashes House Orange Bitters
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           Garnish with an orange twist
           —Harry Johnson, Bartender’s Manual, 1900
 
@@ -949,7 +774,7 @@
           .75 oz. Lemon Juice
           .5 oz. Yellow Chartreuse
           .5 oz. Grand Marnier
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           No garnish
           —Jim, John, Don, Spring 2008
 
@@ -959,7 +784,7 @@
           .75 oz. Aperol
           .75 oz. Cherry Heering
           .75 oz. Lemon Juice
-          Shake with ice and strain into a chilled, Del Maguey Vida Mezcal-rinsed coupe
+          Shaken - chilled, Del Maguey Vida Mezcal-rinsed coupe
           Garnish with a lemon twist
           —Leo Robitsheck, New York, Winter 2009
 
@@ -969,7 +794,7 @@
           1 oz. Grapefruit Juice
           .5 oz. Punt e Mes
           .5 oz. Lillet Blanc
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           Garnish with a pinch of kosher salt
           —Greg Best, Atlanta, 2006
 
@@ -981,7 +806,7 @@
           .75 oz. Pineapple Juice
           .5 oz. Simple Syrup
           .25 oz. Vieux Pontarlier Absinthe
-          Shake with ice and strain into a chilled Collins glass filled with ice
+          Shaken - chilled Collins glass filled with ice
           Garnish with a lime wheel and a piece of candied ginger
           —Jim Meehan, Winter 2008
 
@@ -991,7 +816,7 @@
           1 oz. House Ginger Beer
           .75 oz. Theuriet Crème de Cassis
           .75 oz. Lemon Juice
-          Shake with ice and strain into a chilled rocks glass filled with ice
+          Shaken - chilled rocks glass filled with ice
           Garnish with a lemon wheel and candied ginger
           Jules Bergeron, Trader Vic’s Bartenders Guide, 1972
 
@@ -1011,7 +836,7 @@
           .75 oz. Grapefruit Juice
           .5 oz. Martini Bianco Vermouth
           .5 oz. St. Germain Elderflower Liqueur
-          Shake with ice and strain into a chilled, Del Maguey Vida Mezcal-rinsed coupe
+          Shaken - chilled, Del Maguey Vida Mezcal-rinsed coupe
           Garnish with a grapefruit twist
           —Jim Meehan, Summer 2007
 
@@ -1034,7 +859,7 @@
           .5 oz. Orange Juice
           .5 oz. Boiron Passion Fruit Purée
           .5 oz. Simple Syrup
-          Shake with ice and pour unstrained into a chilled tiki mug
+          Shaken (unstrained) - chilled tiki mug
           No garnish
           —Jeff Berry, Asheville, 2010
 
@@ -1065,7 +890,7 @@
           .25 oz. Luxardo Amaretto
           1 barspoon St. Dalfour Fig Jam
           2 dashes Angostura Bitters
-          Shake with ice and fine-strain into a chilled coupe
+          Shaken - chilled coupe
           Garnish with an orange twist wrapped around three brandied cherries on a pick
           —Lindsay Nader, Fall 2009
 
@@ -1077,28 +902,9 @@
           .5 oz. Lemon Juice
           .5 oz. Simple Syrup
           .25 oz. Lime Juice
-          Shake with ice and strain into a chilled rocks glass filled with ice
+          Shaken - chilled rocks glass filled with ice
           Garnish with grated nutmeg
           —Jerry Thomas, The Bar-Tenders Guide, 1862
-
-- name: FLORA ASTORIA
-  recipe: |
-          2 oz. Hendrick’s Gin
-          .5 oz. Dolin Blanc Vermouth
-          .5 oz. Dolin Dry Vermouth
-          1 barspoon John D. Taylor’s Velvet Falernum
-          4 dashes Lavender Tincture
-          Stirred - chilled coupe
-          Garnish with a sprig of dried lavender
-          —Lindsay Nader and Anne Robinson, Spring 2010
-
-          Lavender Tincture
-          2 liters Absolut 100 Proof Vodka
-          1 oz. Dried Lavender
-          Combine the vodka and lavender in a nonreactive container.
-          Infuse, covered, for 2 days at room temperature
-          Fine-strain and bottle
-          Yields approx. 67 oz.
 
 - name: FLYING DUTCHMAN
   recipe: |
@@ -1108,7 +914,7 @@
           .5 oz. Lemon Juice
           .5 oz. Pineapple Juice
           1 barspoon Luxardo Maraschino Liqueur
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           Garnish with one brandied cherry
           —Jim Meehan, Winter 2009
 
@@ -1120,8 +926,8 @@
           .75 oz. Orange Juice
           .5 oz. Tanqueray Gin
           .5 oz. Kassatly Chtaura Orgeat
-          Shake with ice and pour unstrained into a chilled tiki mug
-          Float .5 oz. of Lustau Cream Sherry
+          Shaken(unstrained) - chilled tiki mug
+          .5 oz. of Lustau Cream Sherry float
           Garnish with a mint sprig
           —Jules Bergeron, Trader Vic’s Bartender’s Guide, 1947
 
@@ -1142,62 +948,20 @@
           1.5 oz. Siete Leguas Reposado Tequila
           .75 oz. Marie Brizard White Crème de Cacao.
           75 oz. Lemon Juice
-          Shake with ice and strain into a chilled egg coupe
-          Top with 2 oz. Oud Beersel Framboise
+          Shaken - chilled egg coupe
+          2 oz. Oud Beersel Framboise to top
           Garnish with three raspberries on a pick
           —Michael Klein, Summer 2010
-
-- name: FRANKFORT ROSE
-  recipe: |
-          2 oz. Hibiscus-Infused Bernheim Wheat Whiskey
-          .75 oz. Lemon Juice
-          .75 oz. Simple Syrup
-          1 Egg White
-          Dry-shake, then shake with ice and strain into a chilled egg coupe
-          Garnish with a lemon twist
-          —Artemio Vásquez, Fall 2007
-          Hibiscus-Infused Bernheim Wheat Whiskey
-          750 ml Bernheim Wheat Whiskey
-          1 oz. Hibiscus Tea
-          Combine the whiskey and tea in a nonreactive container. Infuse for 90 minutes at room temperature
-          Fine-strain and bottle
-          Yield: approx. 25 oz.
 
 - name: FRENCH 75
   recipe: |
           1 oz. Tanqueray Gin
           .5 oz. Lemon Juice
           .5 oz. Simple Syrup
-          Shake with ice and strain into a chilled coupe
-          Top with 1 oz. Moët Imperial Champagne
+          Shaken - chilled coupe
+          1 oz. Moët Imperial Champagne to top
           Garnish with a lemon twist
           —Judge Jr., Here’s How, 1927
-
-- name: FRENCH MAID
-  recipe: |
-          1.5 oz. Hine V.S.O.P. Cognac
-          1 oz. House Ginger Beer
-          .75 oz. Lime Juice
-          .75 oz. Simple Syrup
-          .25 oz. John D. Taylor’s Velvet Falernum
-          4 Cucumber Wheels
-          6-8 Mint Leaves (and one sprig for garnish)
-          Add the cucumber, mint, and simple syrup to a mixing glass and muddle
-          Add everything else, then shake with ice and strain into a chilled Collins glass filled with ice
-          Garnish with a mint sprig poking through a cucumber wheel
-          —Jim Meehan, Fall 2008
-
-- name: FRESA VERDE
-  recipe: |
-          2 oz. Gran Centenario Blanco Tequila
-          .75 oz. Lime Juice
-          .25 oz. Al Wadi Pomegranate Molasses
-          2 Strawberries, a slice taken out of the middle and reserved for garnish
-          2 Thin Slices Green Bell Pepper
-          Add the strawberries, green pepper slices, and molasses to a mixing glass and muddle
-          Add everything else, then shake with ice and fine-strain into a chilled coupe
-          Garnish with a slice of strawberry
-          —Jim Meehan, Summer 2008
 
 - name: FRISCO
   recipe: |
@@ -1214,7 +978,7 @@
           .75 oz. Grapefruit Juice
           .5 oz. Averna Amaro
           2 dashes Fee Brothers Grapefruit Bitters
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           Garnish with a lemon twist
           —Daniel Eun, Fall 2008
 
@@ -1223,16 +987,9 @@
           2 oz. Plymouth Gin
           .75 oz. Lime Cordial
           .75 oz. Lime Juice
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           Garnish with a lime wheel
           —Harry McElhone, ABC of Mixing Cocktails, 1922
-          Lime Cordial
-          24 oz. Simple Syrup
-          12 Limes
-          Remove zest from limes (use a Microplane)
-          Place zest in a nonreactive container, add simple syrup, and infuse at room temperature for 10 minutes
-          Fine-strain, bottle, and store in the refrigerator
-          Yield: approx. 22 oz.
 
 - name: GIN & TONIC
   recipe: |
@@ -1250,7 +1007,7 @@
           .75 oz. Lime Juice
           .5 oz. Lustau Pedro Ximénez
           1 barspoon St. Elizabeth Allspice Dram
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           Garnish with grated nutmeg
           —Jim Meehan, Spring 2009
 
@@ -1259,33 +1016,17 @@
           2 oz. Karlsson’s Gold Vodka
           .5 oz. Carlshamns Flaggpunsch
           1 Sprig Fresh Dill
-          Add the dill and Flaggpunsch to a mixing glass and muddle
-          Add vodka and ice
+          Muddle dill and Flaggpunsch
           Stirred - chilled rocks glass and one large cube
           Garnish with two spritzes of Diluted Aftel Black Pepper Essence
           —Jim Meehan, Winter 2009
-
-- name: GOLDEN STAR FIZZ
-  recipe: |
-          3 oz. Golden Star Sparkling White Jasmine Tea
-          2 oz. Krogstad Aquavit
-          .75 oz. Lemon Juice
-          .75 oz. Pineapple Juice
-          4 Slices Cucumber (reserve 1 for garnish)
-          1 Sprig Dill
-          Add the cucumber, dill, and juices to a mixing glass and muddle
-          Add the aquavit,
-          Shaken - chilled, St. George Absinthe-rinsed fizz glass
-          Top with sparkling jasmine tea
-          Garnish with a slice of cucumber
-          —Jim Meehan, Spring 2009
 
 - name: GOLD RUSH
   recipe: |
           2 oz. Elijah Craig 12-Year-Old Bourbon
           1 oz. Honey Syrup
           .75 oz. Lemon Juice
-          Shake with ice and strain over a large cube into a chilled rocks glass
+          Shaken - chilled rocks glass and a large ice cube
           No garnish
           —T. J. Siegal, New York, circa 2000
 
@@ -1296,8 +1037,8 @@
           1 oz. Laird’s Bonded Apple Brandy
           .5 oz. Deep Mountain Grade B Maple Syrup
           1 Whole Egg
-          Add everything to a mixing glass and swirl to decarbonate beer
-          Dry-shake, then shake with ice and strain into a chilled fizz glass
+          Swirl all ingredients in a mizing glass to decarbonate beer
+          Shaken (dry-shake then shake with ice) - fizz glass and ice
           Garnish with grated nutmeg
           —Jim Meehan, Fall 2008
 
@@ -1306,7 +1047,7 @@
           1.5 oz. Plymouth Gin
           1 oz. Grapefruit Juice
           .75 oz. Plymouth Sloe Gin
-          Shake with ice and strain into a chilled, St. George Absinthe-rinsed coupe
+          Shaken - chilled, St. George Absinthe-rinsed coupe
           No garnish
           —Jim Meehan, Fall 2008
 
@@ -1317,7 +1058,6 @@
           .5 oz. Green Chartreuse
           7 Concord Grapes (reserve 3 for garnish)
           Muddle the grapes
-          Add everything to a mixing glass
           Stirred - chilled fizz glass filled with ice
           Garnish with three Concord grapes on a cocktail pick
           —Jim Meehan, Fall 2009
@@ -1361,7 +1101,7 @@
           .5 oz. Cherry Heering
           .5 oz. Lemon Juice
           .5 oz. House Ginger Beer
-          Shake with ice and strain into a chilled Collins glass filled with ice
+          Shaken - chilled Collins glass filled with ice
           Garnish with a cherry and orange flag
           —John Deragon, Fall 2007
 
@@ -1372,8 +1112,8 @@
           .5 oz. Lime Juice
           .25 oz. Strega
           7 Concord Grapes
-          Add the grapes and Strega to a mixing glass and muddle
-          Add everything else, then shake with ice and fine-strain into a chilled coupe
+          Muddle grapes and Strega
+          Shaken - chilled coupe
           Garnish with two spritzes of diluted Aftel Anise Hyssop Essence
           —Johnny Iuzzini, Fall 2008
 
@@ -1383,7 +1123,7 @@
           .75 oz. Lime Juice
           .5 oz. Luxardo Maraschino Liqueur
           .5 oz. Grapefruit Juice
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           Garnish with a lime wheel
           —Bar La Florida Cocktail Book, 1939
 
@@ -1404,7 +1144,7 @@
           .5 oz. Marie Brizard Orange Curaçao
           .5 oz. Bénédictine
           .5 oz. Lemon Juice
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           No garnish
           —Hugo Ensslin, Recipes for Mixed Drinks, 1916
 
@@ -1427,36 +1167,9 @@
           .5 oz. Lime Juice
           .5 oz. Simple Syrup
           .25 oz. Rothman & Winter Orchard Apricot
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           Garnish with a lime wheel
           —Bar La Florida Cocktails, 1933
-
-- name: IMPERIAL BLUEBERRY FIZZ
-  recipe: |
-          1.5 oz. Hine V.S.O.P. Cognac
-          .5 oz. Crème Yvette
-          2 Tbsp. Blueberries
-          Add the blueberries and Crème Yvette to a mixing glass and muddle
-          Add the Cognac and ice, then shake and fine-strain into a chilled egg coupe
-          Top with 2.5 oz. Moët Imperial Champagne
-          Garnish with an edible orchid
-          —Jim Meehan, Spring 2009
-
-- name: IMPERIAL SILVER CORN FIZZ
-  recipe: |
-          1.5 oz. George Dickel No. 12 Tennessee Whisky
-          1 oz. Corn Water
-          .5 oz. Honey Syrup
-          1 Egg White
-          Dry-shake, then shake with ice and strain into a chilled egg coupe
-          Top with 1 oz. Moët Imperial Champagne
-          No garnish
-          —Jim Meehan, Summer 2009
-          Corn Water
-          16 oz. Water
-          1 8.75-oz. can Del Monte Fresh Cut Whole Kernel Corn
-          Puree the corn and water in a blender, then finestrain, bottle, and store in the refrigerator
-          Yield: approx. 20 oz.
 
 - name: IMPROVED WHISKEY COCKTAIL
   recipe: |
@@ -1473,21 +1186,9 @@
           2 oz. Laird’s Bonded Apple Brandy
           .75 oz. Lemon Juice
           .75 oz. House Grenadine
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           No garnish
           —William Boothby, The World’s Drinks and How to Mix Them, 1908
-
-- name: JAPANESE COURAGE
-  recipe: |
-          6 oz. Kamoizumi “Shusen” Sake
-          1 oz. Bols Genever
-          .5 oz. Yellow Chartreuse
-          .25 oz. Canton Ginger Liqueur
-          .25 oz. Honey Syrup
-          Heat the sake in a bain-marie (do not boil)
-          Pour the sake and everything else into a pre-heated heatproof mug
-          Garnish with a lemon wheel studded with 6 cloves
-          —Jim Meehan, Winter 2009
 
 - name: JAPANESE COCKTAIL
   recipe: |
@@ -1505,9 +1206,9 @@
           1 barspoon Green Chartreuse
           Add cognac
           Stirred - chilled egg coupe and three cracked ice cubes the
-          Add a sugar cube soaked with Angostura Bitters
+          Add Angostura Bitters soaked sugar cube
           2 oz. Möet Imperial Champagne to top
-          Float the Green Chartreuse over the surface of the drink
+          Green Chartreuse float
           No garnish
           —Charles Baker, The Gentleman’s Companion, 1937
 
@@ -1517,8 +1218,8 @@
           .75 oz. Schönauer Apple Schnapps
           .75 oz. Lemon Juice
           2 dashes The Bitter Truth Jerry Thomas Bitters
-          Shake with ice and strain into a chilled Collins glass filled with ice
-          Top with 2 oz. Fever-Tree Bitter Lemon Soda
+          Shaken - chilled Collins glass filled with ice
+          2 oz. Fever-Tree Bitter Lemon Soda to top
           Garnish with a lemon twist
           —Jim Meehan, Fall 2008
 
@@ -1530,7 +1231,7 @@
           .5 oz. Lemon Juice
           .5 oz. Simple Syrup
           1 Egg White
-          Dry-shake, then shake with ice and strain into a chilled, Pernod Absinthe-rinsed egg coupe
+          Shaken (dry-shake then shake with ice) - chilled, Pernod Absinthe-rinsed egg coupe
           Garnish with 2 spritzes of St. Elizabeth Allspice Dram
           —Charles Vexenat, Fall 2008
 
@@ -1540,7 +1241,7 @@
           .75 oz. Lime Juice
           .5 oz. Bénédictine
           2 dashes Angostura Bitters
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           No garnish
           —David Wondrich, Esquire Drinks, 2002
 
@@ -1550,7 +1251,7 @@
           .75 oz. Blandy’s Sercial Madeira
           .75 oz. Lime Juice
           .4 oz. Kassatly Chtaura Orgeat
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           No garnish
           —John deBary, Spring 2010
 
@@ -1571,25 +1272,10 @@
           .75 oz. Lemon Juice
           .5 oz. Bénédictine
           .5 oz. Bärenjäger
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           Float .5 oz. Lustau Palo Cortado Sherry over the surface of the drink
           No garnish
           —Nate Dumas, Spring 2009
-
-- name: KIN KAN
-  recipe: |
-          1.5 oz. Beefeater Gin
-          1 oz. Kumquat Syrup
-          .75 oz. Lemon Juice
-          Shake with ice and strain into a chilled, St. Germain Elderflower Liqueur-rinsed coupe
-          No garnish
-          —John Deragon, Spring 2008
-          Kumquat Syrup
-          6 oz. Kumquats
-          16 oz. Simple Syrup
-          Rinse kumquats, trim off their tops and bottoms, and add to pot along with simple syrup. Bring mixture to boil, then lower heat and simmer on low heat for 30 minutes. Cover and turn off heat. Allow to cool for 1 hour.
-          Fine-strain, bottle, and store in the refrigerator
-          Yield: approx. 9.5 oz.
 
 - name: KOYO
   recipe: |
@@ -1617,7 +1303,7 @@
           .5 oz. Marie Brizard Crème de Cacao
           .25 oz. Martini Sweet Vermouth
           1 barspoon House Grenadine
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           Garnish with a lime wheel
           —Jules Bergeron, Trader Vic’s Bartenders Guide, 1972
 
@@ -1627,7 +1313,7 @@
           1 oz. Glenlivet 12-Year-Old Single Malt Scotch Whisky
           .5 oz. Drambuie
           .5 oz. Lemon Juice
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           No garnish
           —Brian Shebairo, Winter 2009
 
@@ -1638,7 +1324,7 @@
           .5 oz. Lime Juice
           .25 oz. Yellow Chartreuse
           .25 oz. Simple Syrup
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           No garnish
           —Charlotte Voisey, Winter 2007
 
@@ -1657,7 +1343,7 @@
           .75 oz. Luxardo Maraschino Liqueur
           .75 oz. Green Chartreuse
           .75 oz. Lime Juice
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           No garnish
           —Ted Saucier, Bottoms Up, 1951
 
@@ -1670,21 +1356,10 @@
           .25 oz. Green Chartreuse
           1 5-inch Slice Green Bell Pepper
           Muddle the bell pepper and agave syrup
-          Add everything else, then shake with ice and finestrain into a chilled Collins glass filled with ice
+          Add other ingredients
+          Shaken - chilled Collins glass filled with ice
           Garnish with an umbrella and a lime wheel
           —Sean Hoard, Summer 2010
-
-- name: LEAPFROG
-  recipe: |
-          2 oz. Plymouth Gin
-          .75 oz. Lemon Juice
-          .5 oz. Rothman & Winter Orchard Apricot
-          .25 oz. Simple Syrup
-          2 dashes House Orange Bitters 6 Mint Leaves
-          Muddle the mint leaves with the simple syrup
-          Add everything else, then shake with ice and fine-strain into a chilled coupe
-          No garnish
-          —Jim Meehan, Summer 2007
 
 - name: LEFT HAND COCKTAIL
   recipe: |
@@ -1704,7 +1379,7 @@
           .5 oz. Lemon Juice
           .5 oz. Pineapple Juice
           1 barspoon Rothman & Winter Crème de Violette
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           No garnish
           —Jim Meehan, Spring 2009
 
@@ -1718,22 +1393,6 @@
           Stirred - mug
           Garnish with a lemon wedge studded with three cloves
           —Jim Meehan, Winter 2008
-
-- name: LION’S TOOTH
-  recipe: |
-          2 oz. Dandelion Root-Infused Rittenhouse Bonded Rye Whiskey
-          .75 oz. Lustau Palo Cortado Sherry
-          .5 oz. Yellow Chartreuse
-          .25 oz. St. Germain Elderflower Liqueur
-          Stirred - chilled coupe
-          No garnish
-          —John deBary, Spring 2010
-          Dandelion Root-Infused Rittenhouse Bonded Rye Whiskey
-          1 750 ml bottle Rittenhouse Bonded Rye Whiskey
-          .5 oz. Dandelion Root Tea
-          Combine the whiskey and tea in a nonreactive container. Infuse for 10 minutes at room temperature
-          Fine-strain and bottle
-          Yield: approx. 25 oz.
 
 - name: L.E.S. GLOBETROTTER
   recipe: |
@@ -1754,8 +1413,8 @@
           1 ¼-inch Slice Jalapeño with a few seeds
           1 dash Angostura Bitters
           1 dash House Orange Bitters
-          Muddle the jalapeño with the maple syrup
-          Add everything else, then shake with ice and fine-strain into a chilled coupe
+          Muddle jalapeño with maple syrup
+          Shaken (fine strained) - chilled coupe
           Garnish with a flamed orange twist
           —Elayne Werns, New York, 2009
 
@@ -1769,8 +1428,9 @@
           .25 oz. Boiron Passion Fruit Purée
           .25 oz. Kassatly Chtaura Orgeat
           1 dash Angostura Bitters
-          Shake with ice and strain into a chilled rocks glass filled with pebble ice
-          Top with more pebble ice and garnish with an umbrella, a lime wheel, an orange slice, and two large straws
+          Shaken - chilled rocks glass filled with pebble ice
+          More pebble ice to top
+          Garnish with umbrella, lime wheel, orange slice, and two large straws
           —Gerry Corcoran, Spring 2009
 
 - name: MAI-TAI
@@ -1780,25 +1440,9 @@
           1 oz. Lime Juice
           .5 oz. Marie Brizard Orange Curaçao
           .5 oz. Kassatly Chtaura Orgeat
-          Shake with ice and strain into a chilled rocks glass filled with pebble ice
+          Shaken - chilled rocks glass filled with pebble ice
           Garnish with a mint sprig
           —Jules Bergeron, Trader Vic’s Bartenders Guide, 1972
-
-- name: MAE WEST ROYAL DIAMOND FIZZ
-  recipe: |
-          2 oz. Goji Berry-Infused Four Roses Single Barrel Bourbon
-          1 oz. Grapefruit Juice
-          .5 oz. Pama Pomegranate Liqueur
-          1 Whole Egg
-          Dry-shake, then shake with ice and strain into a chilled egg coupe rimmed with sugar, cayenne, and cocoa powder
-          Garnish with three whiskey-soaked goji berries on a pick
-          —LeNell Smothers, Winter 2007
-          Goji Berry-Infused Four Roses Single Barrel Bourbon
-          1.6 oz. Goji Berries
-          1 750-ml bottle Four Roses Single Barrel Bourbon
-          Combine the Goji Berries and whiskey in a nonreactive container. Infuse, covered, for 48 hours at room temperature
-          Fine-strain and bottle
-          Yield: approx. 24 oz.
 
 - name: MANHATTAN
   recipe: |
@@ -1815,27 +1459,9 @@
           .75 oz. Cointreau
           .75 oz. Lime Juice
           .25 oz. Agave Syrup
-          Shake with ice and strain into a chilled rocks glass filled with ice or a chilled coupe (optional salt rim)
+          Shaken - chilled rocks glass filled with ice or a chilled coupe (optional salt rim)
           Garnish with a lime wheel
           —Picador Cocktail listed in W. J. Tarling’s Café Royal Cocktail Book, 1937
-
-- name: MARINER
-  recipe: |
-          2 oz. Compass Box Oak Cross Blended Malt Scotch Whisky
-          .5 oz. Black Cardamom Syrup
-          .25 oz. Pineapple Juice
-          .25 oz. Lemon Juice
-          Stirred - chilled rocks glass and one large ice cube
-          Garnish with a lemon twist
-          —John Deragon, Summer 2008
-
-          Black Cardamom Syrup
-          48 oz. Simple Syrup
-          3 oz. Black Cardamom Pods
-          Combine and boil for 7-8 minutes over high heat, stirring constantly.
-          Remove from heat and allow to cool for 2 hours
-          Fine-strain (do not press on beans), bottle, and store in the refrigerator.
-          Yields approx. 32 oz.
 
 - name: MARTINEZ
   recipe: |
@@ -1861,20 +1487,9 @@
           .75 oz. Pineapple Juice
           .5 oz. Luxardo Maraschino Liqueur
           .25 oz. House Grenadine
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           No garnish
           —Pedro Chicote, Cocktails, 1928
-
-- name: MASATAKA SWIZZLE
-  recipe: |
-          1.5 oz. Nikka Taketsuru 12-Year-Old Japanese Malt Whisky
-          .5 oz. Luxardo Amaretto
-          .5 oz. Lemon Juice
-          1 barspoon Demerara Syrup
-          Add everything to a chilled rocks glass, then fill with pebble ice
-          Swizzle, then top with more pebble ice
-          Garnish with 3 dashes Peychaud’s Bitters and a mint sprig
-          —Stanislav Vadrna, Bratislava, 2009
 
 - name: MASTER CLEANSE
   recipe: |
@@ -1883,7 +1498,7 @@
           .5 oz. Deep Mountain Grade B Maple Syrup
           2 ¼-inch Slices Seeded Jalapeño
           20 drops Herb Pharm Goldenseal Tincture
-          Shake with ice and fine-strain into a chilled coupe
+          Shaken - chilled coupe
           Garnish with a thin slice of jalapeño
           —Lydia Reissmueller, Fall 2009
 
@@ -1893,7 +1508,7 @@
           1 oz. Lemon Juice
           .75 oz. Green Chartreuse
           .75 oz. Simple Syrup
-          Shake with ice and strain into a chilled white wine glass filled with ice
+          Shaken - chilled white wine glass filled with ice
           Garnish with a mint sprig
           —Phil Ward, New York, Summer 2007
 
@@ -1905,7 +1520,7 @@
           1 barspoon Simple Syrup
           3 dashes Fee Brothers Rhubarb Bitters
           Stirred - chilled coupe
-          Top with 2 oz. Moët Imperial Champagne
+          2 oz. Moët Imperial Champagne to top
           No garnish
           —Jane Danger, Spring 2009
 
@@ -1916,7 +1531,7 @@
           .75 oz. Lemon Juice
           .5 oz. Aperol
           .5 oz. Simple Syrup
-          Shake with ice and strain into a chilled Collins glass filled with pebble ice
+          Shaken - chilled Collins glass filled with pebble ice
           Garnish with three watermelon balls on a pick
           —Jane Danger, Summer 2008
 
@@ -1932,36 +1547,13 @@
           Garnish with a lemon twist
           —Jim Meehan, Summer 2010
 
-- name: MEZCAL MULE
-  recipe: |
-          1.5 oz. Sombra Mezcal
-          1 oz. House Ginger Beer
-          .75 oz. Lime Juice
-          .75 oz. Boiron Passion Fruit Purée
-          .5 oz. Agave Syrup
-          4 Slices Cucumber (reserve 1 for garnish)
-          Add the agave syrup and cucumber slices to a mixing glass and muddle
-          Add everything else, then shake with ice and strain into a chilled rocks glass filled with ice
-          Garnish with a piece of candied ginger, a slice of cucumber, and a pinch of ground chili
-          —Jim Meehan, Winter 2009
-
-- name: MIDNIGHT EXPRESS
-  recipe: |
-          3 oz. Freshly Brewed Coffee
-          1.5 oz. Walnut-Infused Hine V.S.O.P. Cognac (see Buona Notte recipe)
-          .25 oz. Luxardo Amaretto
-          .25 oz. Simple Syrup
-          Build in a pre-heated heatproof mug
-          Garnish with freshly whipped cream and grated nutmeg
-          —John Deragon and Don Lee, Winter 2008
-
 - name: MILK PUNCH
   recipe: |
           1.5 oz. Whole Milk
           1 oz. Pierre Ferrand Ambre Cognac
           1 oz. Myers’s Dark Rum
           .75 oz. Simple Syrup
-          Shake with ice and strain into a chilled rocks glass filled with one large cube
+          Shaken - chilled rocks glass filled with one large cube
           Garnish with grated nutmeg
           —Jerry Thomas, Bar-Tender’s Guide, 1862
 
@@ -1983,9 +1575,8 @@
           2.5 oz. Booker’s Bourbon
           .5 oz. Simple Syrup
           8 Mint Leaves (plus 3 mint sprigs for garnish)
-          Muddle the mint leaves and simple syrup in a chilled julep cup
-          Add the bourbon and top with pebble ice
-          Swizzle, then top with more pebble ice
+          Muddle mint leaves and simple syrup
+          Swizzled - julep cup to the top with pebble ice
           Garnish with 3 mint sprigs
           —Jerry Thomas, Bar-Tender’s Guide, 1862
 
@@ -1995,9 +1586,9 @@
           1 oz. Simple Syrup
           .75 oz. Lime Juice
           8 Mint Leaves (plus 1 mint sprig for garnish)
-          Add the simple syrup and mint leaves to a mixing glass and muddle
-          Add everything else, then shake and fine-strain into a chilled Collins glass filled with ice
-          Top with 1 oz. club soda and garnish with the mint sprig
+          Muddle simple syrup and mint leaves
+          Shaken - chilled Collins glass filled with ice
+          1 oz. Club Soda to top and garnish with the mint sprig
           —Listed as the Rum Mojo in Juan A. Lasa’s Libro de Cocktail, 1929
 
 - name: MONTGOMERY SMITH
@@ -2014,27 +1605,9 @@
           2 oz. Beefeater Gin
           1 oz. Orange Juice
           1 barspoon Al Wadi Pomegranate Molasses
-          Shake with ice and strain into a chilled, Vieux Pontarlier Absinthe-rinsed coupe
+          Shaken - chilled, Vieux Pontarlier Absinthe-rinsed coupe
           No garnish
           —Harry McElhone, ABC of Mixing Cocktails, 1922
-
-- name: MORANGO FIZZ
-  recipe: |
-          “Morango” means strawberry in Portuguese, the language of Brazil, where cachaça comes from.
-          2 oz. Strawberry-Infused Mãe de Ouro Cachaça
-          .75 oz. Lemon Juice
-          .75 oz. Simple Syrup
-          1 Egg White
-          Dry-shake, then shake with ice and strain into a chilled fizz glass
-          Top with 1 oz. club soda
-          No garnish
-          —Don Lee, Summer 2007
-          Strawberry-Infused Mae de Ouro Cachaça
-          750 ml Mãe de Oro Cachaça
-          16 oz. Strawberries, stems removed and quartered
-          Combine the cachaça and strawberries in a nonreactive container and infuse, covered, for 12 hours at room temperature
-          Fine-strain, bottle, and store in the refrigerator
-          Yield: approx. 24.5 oz.
 
 - name: MOSCOW MULE
   recipe: |
@@ -2042,7 +1615,7 @@
           1 oz. House Ginger Beer
           1 oz. Simple Syrup
           .75 oz. Lime Juice
-          Shake with ice and strain into a chilled mule cup filled with ice
+          Shaken - chilled mule cup filled with ice
           Garnish with a lime wheel and candied ginger
           —Lucius Beebe, The Stork Club Bar Book, 1946
 
@@ -2053,7 +1626,7 @@
           .75 oz. Grapefruit juice
           .5 oz. Lustau Pedro Ximénez Sherry
           .5 oz. Cherry Heering
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           Garnish with three brandied cherries on a pick
           —Jim Meehan, Winter 2007
 
@@ -2063,22 +1636,9 @@
           1 oz. Red Jacket Orchard Apple Cider
           .75 oz. Lemon Juice
           .5 oz. Demerara Syrup
-          Shake with ice and strain into a chilled Collins glass filled with pebble ice
+          Shaken - chilled Collins glass filled with pebble ice
           Garnish with an apple slice sprinkled with grated cinnamon and nutmeg
           —Simon Ford, London, 2001
-
-- name: NAVY GROG
-  recipe: |
-          1 oz. Gosling’s Black Seal Rum
-          1 oz. Appleton Reserve Rum
-          1 oz. El Dorado 15-Year-Old Rum
-          .75 oz. Lime Juice
-          .75 oz. Grapefruit Juice
-          .5 oz. Honey Syrup
-          Build in a chilled Collins glass, then fill with pebble ice
-          Swizzle, then top with more pebble ice
-          No garnish
-          —Don the Beachcomber, 1941
 
 - name: NEGRONI
   recipe: |
@@ -2117,8 +1677,8 @@
           half an Orange Wheel
           3 Brandied Cherries
           Muddle the orange and cherries
-          Add everything else, then shake with ice and fine-strain into a chilled coupe
-          Top with 2 oz. Southampton Double White Ale
+          Shaken - chilled coupe
+          2 oz. Southampton Double White Ale to top
           No garnish
           —Kevin Diedrich, Spring 2010
 
@@ -2128,8 +1688,8 @@
           5 oz. Heavy Cream
           .25 oz. Simple Syrup
           1 Egg Yolk
-          Dry-shake, shake with ice, and strain into a chilled coupe
-          Top with .75 oz. Noval Black Port
+          Shaken (dry-shake then shake with ice) - chilled coupe
+          .75 oz. Noval Black Port to top
           Garnish with grated nutmeg
           —Toby Maloney, New York, circa 2003
 
@@ -2149,7 +1709,7 @@
           .5 oz. Plymouth Sloe Gin
           .25 oz. Monteverdi Nocino
           Stirred - chilled coupe
-          Top with 2 oz. Moët Imperial Champagne
+          2 oz. Moët Imperial Champagne to top
           No garnish
           —Lindsay Nader, Fall 2009
 
@@ -2160,8 +1720,8 @@
           .25 oz. Grapefruit Juice
           .25 oz. Simple Syrup
           1 dash Regan’s Orange Bitters
-          Shake with ice and strain into a chilled coupe
-          Top with 2 oz. Dupont Brut Sparkling Cider
+          Shaken - chilled coupe
+          2 oz. Dupont Brut Sparkling Cider to top
           No garnish
           —John deBary, Fall 2008
 
@@ -2192,9 +1752,9 @@
           .5 oz. Lemon Juice
           .5 oz. Simple Syrup
           1 Strawberry
-          Muddle the strawberry with the simple syrup,
-          Add everything else, then shake with ice and finestrain into a chilled Collins glass filled with ice
-          Top with 2 oz. Club Soda
+          Muddle strawberry with simple syrup,
+          Shaken - chilled Collins glass filled with ice
+          2 oz. Club Soda to top
           Garnish with a cucumber wheel
           —Jim Meehan, Summer 2010
 
@@ -2207,7 +1767,7 @@
           2 dashes Fee Brothers Whiskey Barrel Aged Bitters
           Muddle the sugar cube and bitters
           Add everything else
-          Stirred - chilled rocks glass and  one large ice cube
+          Stirred - chilled rocks glass and one large ice cube
           Garnish with an orange and lemon twist
           —Nate Dumas, Winter 2008
 
@@ -2236,8 +1796,7 @@
           .75 oz. Lemon Juice
           .75 oz. Simple Syrup
           1 Egg White
-          Dry-shake, shake with ice,
-          Shaken - chilled egg coupe
+          Shaken (dry-shake then shake with ice) - chilled egg coupe
           Pour .5 oz. flaming Green Chartreuse V.E.P. over the surface of the drink
           No garnish
           —Cervantes Ramirez, Winter 2007
@@ -2250,7 +1809,7 @@
           6 Mint Leaves (plus 1 mint sprig for garnish)
           4 Slices Cucumber (reserve 1 for garnish)
           Muddle the cucumber and mint with simple syrup
-          Add everything else, then shake with ice and finestrain over one large cube into a chilled rocks glass
+          Shaken - chilled rocks glass and one large ice cube
           Garnish with a mint sprig poked through a slice of cucumber
           —Sam Ross, New York, 2004
 
@@ -2280,7 +1839,7 @@
           .5 oz. Grapefruit Juice
           .5 oz. Lemon Juice
           1 barspoon Bonne Maman Orange Marmalade
-          Shake with ice and strain into a chilled, St. George Absinthe-rinsed coupe
+          Shaken - chilled, St. George Absinthe-rinsed coupe
           Garnish with a grapefruit twist
           —David Slape, Fall 2008
 
@@ -2298,8 +1857,8 @@
   recipe: |
           2 oz. Siete Leguas Reposado Tequila
           .5 oz. Lime Juice
-          Build in a chilled salt-rimmed Collins glass, then add ice
-          Top with 2 oz. Ting Grapefruit Soda
+          Built - chilled salt-rimmed Collins glass and add ice
+          2 oz. Ting Grapefruit Soda to top
           Garnish with a half a grapefruit wheel
           —David Wondrich, Killer Cocktails, 2005
 
@@ -2310,49 +1869,20 @@
           .5 oz. Kassatly Chtaura Orgeat
           8 Mint Leaves (plus 1 mint sprig for garnish)
           Muddle mint leaves with orgeat
-          Add everything else, then shake with ice and strain into a chilled rocks glass filled with ice
-          Top with 1 oz. Club Soda
+          Shaken - chilled rocks glass filled with ice
+          1 oz. Club Soda - to top
           Garnish with a mint sprig
           —Jim Meehan, New York, 2005
-
-- name: PAUL’S CLUB COCKTAIL
-  recipe: |
-          2 oz. Tanqueray Gin
-          1 oz. Concord Shrubb
-          .25 oz. Simple Syrup
-          Stirred - chilled coupe
-          Float .25 oz. of Ricard Pastis
-          No garnish
-          —Jim Meehan and Don Lee, Fall 2007
-          Concord Shrubb
-          5 lb. Crushed Concord Grapes
-          1 liter White Wine Vinegar
-          Combine the grapes and vinegar in a nonreactive container. Infuse, covered, for one week at room temperature
-          Fine-strain, bottle, and store in the refrigerator
-          Yield: approx. 60 oz.
 
 - name: PEARL BUTTON
   recipe: |
           2 oz. Mãe De Ouro Cachaça
           .75 oz. Lillet Blanc
           .5 oz. Lime Juice
-          Shake with ice and strain into a chilled Collins glass filled with ice
-          Top with 1.5 oz. of San Pellegrino Limonata
+          Shaken - chilled Collins glass filled with ice
+          1.5 oz. of San Pellegrino Limonata to top
           Garnish with half a grapefruit wheel
           —John Deragon, Spring 2008
-
-- name: PEARL OF PUEBLA
-  recipe: |
-          2 oz. Sombra Mezcal
-          .75 oz. Yellow Chartreuse
-          .75 oz. Lime Juice
-          4 sprigs Fresh Oregano
-          1 barspoon Ricard Pastis
-          1 barspoon Agave Nectar
-          Muddle the oregano and agave nectar
-          Add everything else, then shake with ice and fine-strain into a chilled coupe
-          No garnish
-          —Jim Meehan, Winter 2008
 
 - name: PERFECT PEAR
   recipe: |
@@ -2360,7 +1890,7 @@
           .75 oz. Lemon Juice
           .5 oz. Orange Juice
           .5 oz. Simple Syrup
-          Shake with ice and strain into a chilled, half sugar-rimmed coupe
+          Shaken - chilled, half sugar-rimmed coupe
           No garnish
           —Marco Dionysos, Portland, 1995
 
@@ -2371,8 +1901,8 @@
           .75 oz. House Grenadine
           .5 oz. Lime Juice
           4 drops Marivani Rose Flower Water
-          Shake with ice and strain into a chilled Collins glass filled with ice
-          Top with 1 oz. Club Soda
+          Shaken - chilled Collins glass filled with ice
+          1 oz. Club Soda to top
           No garnish
           —Jack McGarry, Belfast, Spring 2009
 
@@ -2393,9 +1923,9 @@
           .75 oz. Lemon Juice
           .5 oz. Simple Syrup
           3 Cucumber Slices (1 reserved for garnish)
-          Muddle the cucumber and simple syrup
-          Add Pimms and lemon juice, then shake with ice and strain into a chilled Collins glass filled with ice
-          Top with 1 oz. Fever-Tree Ginger Ale
+          Muddle cucumber and simple syrup
+          Shaken - chilled Collins glass filled with ice
+          1 oz. Fever-Tree Ginger Beer to top
           Garnish with a cucumber wheel
           —Lucius Beebe, The Stork Club Bar Book, 1946
 
@@ -2407,7 +1937,7 @@
           .5 oz. Simple Syrup
           .5 oz. House Grenadine
           1 Egg White
-          Dry-shake, then shake with ice and strain into a chilled egg coupe
+          Shaken (dry-shake then shake with ice) - chilled egg coupe
           No garnish
           —Harry McElhone, ABC of Mixing Cocktails, 1922
 
@@ -2417,7 +1947,7 @@
           .75 oz. Lime Juice
           .75 oz. Simple Syrup
           1 Egg White
-          Dry-shake, then shake with ice and strain into a chilled egg coupe
+          Shaken (dry-shake then shake with ice) - chilled egg coupe
           Garnish with 4 drops Angostura Bitters swirled with two straws
           —Charles H. Baker Jr., The South American Gentleman’s Companion, 1951
 
@@ -2438,8 +1968,8 @@
           2 1½-inch Asparagus Tips
           1 ¼-inch Slice Fennel Bulb
           1 2-inch Celery Stalk
-          Muddle the Cointreau and vegetables
-          Add everything else, then shake with ice and fine-strain into a chilled St. George Absinthe-rinsed coupe
+          Muddle Cointreau and veggies
+          Shaken - chilled St. George Absinthe-rinsed coupe
           Garnish with an orange twist
           —Sean Hoard, Summer 2010
 
@@ -2460,7 +1990,7 @@
           .25 oz. Grand Marnier
           1 dash Angostura Bitters
           Stirred - chilled coupe
-          Top with 1 oz. Moët Imperial Champagne
+          1 oz. Moët Imperial Champagne to top
           Garnish with an orange twist
           —Louis Foquet, Bariana, 1896
 
@@ -2489,18 +2019,6 @@
           Garnish with an orange twist
           —Michael Madrusan, Winter 2007
 
-- name: QUEENS PARK SWIZZLE
-  recipe: |
-          2 oz. Barbancourt 8-Year-Old Rhum
-          1 oz. Lime Juice
-          .5 oz. Demerara Syrup
-          8 Mint Leaves (plus 1 Mint Sprig for garnish)
-          Muddle mint leaves and demerara syrup in a chilled Collins glass
-          Add rhum, lime, and pebble ice, then swizzle and top with more pebble ice
-          Add 2 dashes Peychaud’s Bitters and 2 dashes Angostura Bitters
-          Garnish with a mint sprig
-          —Jules Bergeron, Trader Vic’s Bartender’s Guide, 1947
-
 - name: RACK & RYE
   recipe: |
           1.5 oz. Wild Turkey Russell’s Reserve 6-Year-Old Rye Whiskey
@@ -2522,8 +2040,8 @@
           .5 oz. Lemon Juice
           5 drops Marivani Orange Flower Water
           1 Egg White
-          Dry-shake, shake with ice, and strain into a chilled Collins glass
-          Top with 1 oz. club soda
+          Shaken (dry-shake then shake with ice) - chilled Collins glass
+          1 oz. Club Soda to top
           No garnish
           George Kappeler, Modern American Drinks, 1895
 
@@ -2532,7 +2050,7 @@
           2.25 oz. Talisker 10-Year-Old Single Malt Scotch Whisky
           .75 oz. Lustau Pedro Ximénez Sherry
           Stir - chilled, St. George Absinthe-rinsed coupe
-          Twist a lemon peel over the surface and discard
+          Finish with lemon peel twist over the surface and discard peel (lemon oil)
           No garnish
           —Adeline Shepherd and Craig Harper, Copenhagen, 2007
 
@@ -2552,29 +2070,9 @@
           1 oz. Lemon Juice
           .75 oz. Simple Syrup
           1 Egg White
-          Dry-shake, then shake with ice and strain into a chilled Vieux Pontarlier Absinthe-rinsed egg coupe
+          Shaken (dry-shake then shake with ice) - chilled Vieux Pontarlier Absinthe-rinsed egg coupe
           No garnish
           —Harry Craddock, The Savoy Cocktail Book, 1930
-
-- name: RED DEVIL
-  recipe: |
-          2 oz. Bols Genever
-          1 oz. Jujube Tea-Infused Vya Sweet Vermouth
-          3 Slices Dried Persimmon
-          2 dashes Fee Brothers Whiskey Barrel-Aged Bitters
-          Add the persimmon and vermouth to a mixing glass and muddle
-          Add everything else
-          Stirred - chilled rocks glass and one large ice cube
-          Garnish with a cinnamon stick
-          —Daniel Eun, Fall 2008
-
-          Jujube Tea-Infused Vya Sweet Vermouth
-          1.3 oz. Jujube Tea
-          1 375-ml bottle Vya Sweet Vermouth
-          Combine the tea and vermouth in a nonreactive container
-          Stir the tea until it dissolves into the vermouth
-          Fine-strain, bottle, and store in the refrigerator
-          Yields approx. 14 oz.
 
 - name: REMEMBER THE MAINE
   recipe: |
@@ -2593,8 +2091,8 @@
           .5 oz. Agave Syrup
           .25 oz. Yellow Chartreuse
           4 dashes A.B. Smeby Verbena Bitters
-          Shake with ice and strain into a chilled Collins glass filled with pebble ice
-          Top with 4 dashes Peychaud’s Bitters
+          Shaken - chilled Collins glass filled with pebble ice
+          4 dashes Peychaud’s Bitters to top
           No garnish
           —David Slape, Spring 2009
 
@@ -2616,33 +2114,10 @@
           .5 oz. Lemon Juice
           .5 oz. Agave Syrup
           2 Strawberries (reserve 1 for garnish)
-          Muddle 1 strawberry
-          Add everything else, then shake with ice and finestrain into a chilled coupe
+          Muddle  strawberry
+          Shaken - chilled coupe
           Garnish with a strawberry fan
           —Lindsay Nader, Spring 2010
-
-- name: REVEREND PALMER
-  recipe: |
-          2 oz. Black Tea-Infused Elijah Craig 12-Year-Old Bourbon
-          .5 oz. Lemon Syrup
-          2 dashes Angostura Bitters
-          Stirred - chilled rocks glass and one large ice cube
-          Garnish with a lemon twist
-          —Don Lee, Summer 2007
-          Black Tea-Infused Elijah Craig
-          12-Year-Old Bourbon
-          1 750-ml bottle Elijah Craig 12-Year-Old Bourbon
-          .5 oz. In Pursuit of Tea Ceylon Pekoe Orange Tea
-          Combine the tea and bourbon in a nonreactive container. Infuse for 12 minutes at room temperature
-          Fine-strain and bottle
-          Yield: approx. 25 oz.
-          Lemon Syrup
-          24 oz. Simple Syrup
-          8 Lemons
-          Remove zest from lemons (use a Microplane)
-          Combine the lemon zest with the simple syrup in a nonreactive container. Infuse for 10 minutes at room temperature
-          Fine-strain, bottle, and store in the refrigerator
-          Yield: approx. 22 oz.
 
 - name: RHUBARBARITA
   recipe: |
@@ -2651,7 +2126,7 @@
           .75 oz. Grand Marnier
           .5 oz. Boiron Rhubarb Purée
           .5 oz. House Grenadine
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           Garnish with a grapefruit twist
           —Jim/Don, Spring 2008
 
@@ -2660,43 +2135,12 @@
           2 oz. Banks 5 Island Rum
           .75 oz. Lime Juice
           .5 oz. Rhum Clément Creole Shrubb
-          .25 oz. Martinique Sugar Cane Syrup
+          .25 oz. Martinique Sugar Cane Syrup(or Simple Syrup)
           2 dashes Angostura Bitters
           1 dash Angostura Orange Bitters
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           Garnish with an orange wedge
           —Jim Meehan, Winter 2009
-
-- name: RIO BRAVO
-  recipe: |
-          2 oz. Sagatiba Cachaça
-          .75 oz. Lime Juice
-          .5 oz. Kassatly Chtaura Orgeat
-          3 quarter-sized Slices Freshly Peeled Ginger
-          Add the ginger and orgeat to a mixing glass and muddle
-          Add everything else, then shake with ice and fine-strain into a chilled coupe
-          Garnish with an orange twist
-          —Nidal Ramini, London, 2006
-
-- name: RITE OF SPRING
-  recipe: |
-          2 oz. Tanqueray Gin
-          .75 oz. Vya Dry Vermouth
-          .25 oz. Pickled Ramp Brine
-          Stirred - chilled coupe
-          Garnish with a pickled ramp
-          —Don Lee, Spring 2008
-          Pickled Ramps
-          2 lb. Ramps, scrubbed, whiskers trimmed. Trim those with broad leaves, leaving 1" of green.
-          8 oz. Hot Water
-          4 oz. Rice Wine Vinegar
-          6 Tbsp. Superfine Sugar
-          2.25 tsp. Kosher Salt
-          1 tsp. Shichimi Togarashi (Japanese 7-spice powder)
-          1 tsp. Kochukaru (Korean red chili flakes)
-          1 tsp. Whole White Peppercorns
-          Bring everything except ramps to a boil, then pour over ramps
-          Cool and refrigerate for 3-4 days before serving
 
 - name: ROB ROY
   recipe: |
@@ -2744,7 +2188,7 @@
           .5 oz. Lime Juice
           .25 oz. Kassatly Chtaura Orgeat
           1 Egg White
-          Dry-shake, then shake with ice and strain into a chilled egg coupe
+          Shaken (dry-shake then shake with ice) - chilled egg coupe
           Garnish with 2 spritzes of Angostura Bitters over a PDT stencil
           —John deBary, Winter 2008
 
@@ -2754,7 +2198,7 @@
           1 oz. Lime Juice
           .5 oz. Cointreau
           .5 oz. John D. Taylor’s Velvet Falernum
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           Garnish with a lime wheel
           —Crosby Gaige, Cocktail Guide and Ladies’ Companion, 1945
 
@@ -2780,20 +2224,6 @@
           No garnish
           —Jim Meehan, Fall 2007
 
-- name: SAGE OLD BUCK
-  recipe: |
-          1.5 oz. Benromach 12-Year-Old Single Malt Scotch Whisky
-          .75 oz. Lemon Juice
-          .75 oz. House Ginger Beer
-          .75 oz. Simple Syrup
-          .5 oz. Belle de Brillet
-          .25 oz. Eurovanille Vanilla Syrup
-          8 Whole Black Peppercorns
-          Muddle the black peppercorns with the simple syrup
-          Add everything else, then shake with ice and finestrain into a chilled Collins glass filled with ice
-          Garnish with a smacked sage leaf
-          —Jim Meehan and Lydia Reissmueller, Fall 2009
-
 - name: SAZERAC
   recipe: |
           2 oz. Rittenhouse Bonded Rye Whiskey
@@ -2812,7 +2242,7 @@
           3 dashes Peychaud’s Bitters
           2 dashes Angostura Bitters
           Stirred - chilled coupe
-          Top with 2 oz. Moët Imperial Champagne
+          2 oz. Moët Imperial Champagne to top
           Garnish with an orange twist
           —Ted Haigh, Vintage Spirits and Forgotten Cocktails, 2003
 
@@ -2826,32 +2256,6 @@
           Garnish with a lemon twist
           —Jennifer Colliau, San Francisco, 2009
 
-- name: SHISO DELICIOUS
-  recipe: |
-          1.75 oz. Aviation Gin
-          .75 oz. Lemon Juice
-          .5 oz. Grapefruit Juice
-          .25 oz. Martinique Cane Syrup
-          2 Shiso Leaves
-          1 4-inch-long Slice Red Bell Pepper
-          Muddle the shiso, red bell pepper, and cane syrup
-          Add everything else, then shake and fine-strain into a chilled coupe
-          No garnish
-          —Jim Meehan and Kevin Diedrich, Spring 2010
-
-- name: SHISO MALT SOUR
-  recipe: |
-          2 oz. Yamazaki 12-Year-Old Japanese Single Malt Whisky
-          .75 oz. Lime Juice
-          .75 oz. Simple Syrup
-          .25 oz. Vieux Pontarlier Absinthe
-          3 Shiso Leaves (reserve 1 for garnish)
-          1 Egg White
-          Add the shiso and simple syrup to a mixing glass and muddle
-          Add everything else, then dry-shake. Shake with ice and fine-strain into a chilled egg coupe
-          Garnish with a shiso leaf
-          —Jim Meehan, Spring 2009
-
 - name: SIDECAR
   recipe: |
           2 oz. Rémy Martin V.S.O.P. Cognac
@@ -2859,7 +2263,7 @@
           .75 oz. Lemon Juice
           .25 oz. Simple Syrup
           According to Vermiere, this cocktail “was first introduced by MacGarry, the celebrated bartender of Buck’s Club” in London.
-          Shake with ice and strain into a chilled, half sugarrimmed coupe
+          Shaken - chilled, half sugarrimmed coupe
           No garnish
           —Robert Vermeire, Cocktails: How to Mix Them, 1922
 
@@ -2870,37 +2274,9 @@
           .5 oz. Lime Juice
           .5 oz. Grapefruit Juice
           .5 oz. Simple Syrup
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           Garnish with a grapefruit twist
           —Katie Stipe, New York, 2006
-
-- name: SILK ROAD
-  recipe: |
-          2 oz. Black Sesame-Infused Krogstad Aquavit
-          .25 oz. Caramelized Simple Syrup
-          1 dash Angostura Bitters
-          1 dash Peychaud’s Bitters
-          Stirred - chilled coupe
-          Garnish with a flamed orange twist
-          —Don Lee, Fall 2007
-
-          Black Sesame-Infused Krogstad Aquavit
-          1 750-ml bottle Krogstad Aquavit
-          1.4 oz. Black Sesame Seeds
-          10 Black Peppercorns
-          Toast black sesame seeds and black peppercorns under medium-high heat for 3-5 minutes or until aromatic.
-          Pulverize with a muddler and add the warm spices and a bottle of Krogstad Aquavit to a nonreactive container.
-          Infuse for 10 minutes, then fine-strain and bottle.
-          Yields approx. 24 oz.
-
-          Caramelized Simple Syrup
-          1 cup Superfine Sugar
-          Water
-          Add superfine sugar and 2 tablespoons water to a saucepan, place over medium high heat, and stir until the sugar begins to bubble.
-          Stop stirring and allow the sugar to brown.
-          Once it starts browning, carefully stir in 10 oz water and continue to stir until all the caramelized sugar is dissolved.
-          Cool, bottle, and store in the refrigerator.
-          Yields approx. 15 oz.
 
 - name: SILVER LINING
   recipe: |
@@ -2909,8 +2285,7 @@
           .75 oz. Lemon Juice
           .25 oz. Simple Syrup
           1 Egg White
-          Dry-shake, then shake with ice
-          Shaken - chilled fizz glass
+          Shaken (dry-shake then shake with ice) - fizz glass and ice
           1 oz. Club Soda to top
           No garnish
           —Joseph Schwartz, New York, January 2001
@@ -2922,29 +2297,10 @@
           .5 oz. Lemon Juice
           .5 oz. Pineapple Juice
           1 Egg White
-          Dry-shake, then shake with ice and strain into a chilled fizz glass
-          Top with 2 oz. Fitz’s Root Beer
+          Shaken (dry-shake then shake with ice) - fizz glass and ice
+          2 oz. Fitz’s Root Beer to top
           Garnish with grated nutmeg
           —Jim Meehan, Fall 2009
-
-- name: SILVER SANGAREE
-  recipe: |
-          1.5 oz. Paumanok Cabernet Franc
-          .75 oz. Lemon Juice
-          .5 oz. Famous Grouse Blended Scotch Whisky
-          .5 oz. Dow’s Ruby Port
-          .5 oz. Clove Syrup
-          4 Kirsch Brandied Cherries
-          1 Egg White
-          Add the cherries and clove syrup to a mixing glass and muddle
-          Add everything else, then dry-shake. Shake with ice and strain into a chilled wine glass
-          Garnish with grated nutmeg
-          —Jane Danger, Winter 2007
-          Clove Syrup
-          24 oz. Simple Syrup
-          1.5 oz. Whole Cloves
-          In a medium-sized pot, bring simple syrup to rolling boil, then add cloves and remove from heat. Infuse for 15 minutes, fine-strain, cool, bottle, and store in the refrigerator.
-          Yield: approx. 21 oz.
 
 - name: SINGAPORE SLING
   recipe: |
@@ -2956,21 +2312,9 @@
           .25 oz. Bénédictine
           .25 oz. Lime Juice
           1 dash Angostura Bitters
-          Shake with ice and strain into a chilled Collins glass filled with ice
+          Shaken - chilled Collins glass filled with ice
           Garnish with a cherry and a slice of pineapple
           —Sloppy Joe’s, 1931
-
-- name: SINGLE MALT SANGAREE
-  recipe: |
-          2 oz. Paumanok Cabernet Franc
-          1 oz. Oban 14-Year-Old Single Malt Scotch Whisky
-          1 oz. Dubonnet
-          .75 oz. Grand Marnier
-          1 barspoon Demerara Syrup
-          Heat until steaming
-          Pour into a pre-heated heatproof mug. Twist an orange peel over the surface and discard
-          Garnish with a cinnamon stick
-          —Jim Meehan, Winter 2008
 
 - name: SLOE GIN FIZZ
   recipe: |
@@ -2978,8 +2322,8 @@
           1 oz. Plymouth Gin
           .75 oz. Lemon Juice
           .25 oz. Simple Syrup
-          Shake with ice and strain into a chilled fizz glass
-          Top with 3 oz. Club Soda
+          Shaken - chilled fizz glass
+          3 oz. Club Soda to top
           No garnish
           —J. A. Grohusko, Jack’s Manual, 1910
 
@@ -3012,7 +2356,7 @@
           .75 oz. Simple Syrup
           4 Mint Leaves
           Muddle the simple syrup and mint
-          Add everything else, then shake with ice and finestrain into a chilled coupe
+          Shaken (finestrained) - chilled coupe
           No garnish
           —Hugo Ensslin, Recipes for Mixed Drinks, 1916
 
@@ -3023,7 +2367,7 @@
           .75 oz. Lillet Blanc
           .5 oz. Marie Brizard Orange Curaçao
           .5 oz. Lemon Juice
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           Garnish with a lemon twist
           —Michael Madrusan, Summer 2007
 
@@ -3064,27 +2408,10 @@
           .75 oz. Lime Juice
           .5 oz. Zwack
           .5 oz. Honey Syrup
-          Shake with ice and strain into a chilled egg coupe
-          Top with 2 oz. Moët Imperial Champagne
+          Shaken - chilled egg coupe
+          2 oz. Moët Imperial Champagne to top
           Garnish with a spritz of Marivani lavender essence and an edible orchid
           —Jim Meehan, Fall 2008
-
-- name: SWISS MIST
-  recipe: |
-          2 oz. Plymouth Gin
-          .75 oz. Lemon Juice
-          .75 oz. Grapefruit Syrup
-          1 Egg White
-          Dry-shake, then shake with ice and strain into a chilled egg coupe
-          Garnish with a spritz of Kubler Absinthe
-          —Jim Meehan, Spring 2008
-          Grapefruit Syrup
-          24 oz. Simple Syrup
-          3 White Grapefruits
-          Remove zest from grapefruits (using a Microplane)
-          Combine the grapefruit zest with the simple syrup in a nonreactive container. Infuse for 10 minutes at room temperature
-          Fine-strain, bottle, and store in the refrigerator
-          Yield: approx. 22 oz.
 
 - name: SWOLLEN GLAND
   recipe: |
@@ -3092,7 +2419,7 @@
           .5 oz. Orange Juice
           .25 oz. Yellow Chartreuse
           4 dashes Peychaud’s Bitters
-          Shake with ice and fine-strain into a chilled, Vieux Pontarlier Absinthe-rinsed coupe
+          Shake (fine strained) - chilled, Vieux Pontarlier Absinthe-rinsed coupe
           Garnish with a cucumber ribbon on a pick
           —Jim Meehan and Lydia Reissmueller, Fall 2009
 
@@ -3105,7 +2432,7 @@
           1 barspoon Bonne Maman Strawberry Preserves
           7 Mint Leaves (reserve 1 for garnish)
           Muddle 6 mint leaves and the Cynar
-          Add everything else, then shake with ice and fine-strain into a chilled coupe
+          Shaken (fine strained) - chilled coupe
           Garnish with a mint leaf
           —Gerry Corcoran, Spring 2009
 
@@ -3124,7 +2451,7 @@
           2 oz. Old Grand-Dad Bonded Bourbon
           .75 oz. Godiva Original Liqueur
           .75 oz. Blood Orange Juice
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           Garnish with a flamed orange twist
           —John deBary, Winter 2008
 
@@ -3136,23 +2463,14 @@
           No garnish
           —Hugo Ensslin, Recipes for Mixed Drinks, 1916
 
-- name: TI-PUNCH
-  recipe: |
-          2 oz. Neisson Rhum Réserve Spéciale
-          1 barspoon Martinique Sugar Cane Syrup
-          1 Lime Disc
-          Squeeze the lime disc on both sides (to express the oil from the peel and juice from the flesh) into a chilled rocks glass
-          Add everything else and top with pebble ice. Swizzle, then top with more pebble ice and swizzle again
-          No garnish
-          —Ed Hamilton, Rums of the Eastern Caribbean, 1997
-
 - name: TOM COLLINS
   recipe: |
           2 oz. Hayman’s Old Tom Gin
           .75 oz. Lemon Juice
           .5 oz. Simple Syrup
-          Shake with ice and strain into a chilled Collins glass filled with ice
-          Top with 2 oz. club soda and garnish with a lemon wedge
+          Shaken - chilled Collins glass filled with ice
+          2 oz. Club Soda to top
+          Garnish with a lemon wedge
           —Jerry Thomas, Bar-Tender’s Guide, 1876
 
 - name: TOMMY’S MARGARITA
@@ -3160,7 +2478,7 @@
           2 oz. L & J Blanco Tequila
           1 oz. Lime Juice
           1 oz. Agave Syrup
-          Shake with ice and strain into a chilled rocks glass filled with ice
+          Shaken - chilled rocks glass filled with ice
           No garnish
           —Julio Bermejo, San Francisco, 1987
 
@@ -3185,23 +2503,6 @@
           Garnish with a lemon twist
           —Robert Hess, Seattle, 2002
 
-- name: T & T
-  recipe: |
-          1.5 oz. Tamarind Purée
-          1 oz. Siembra Azul Blanco Tequila
-          1 oz. Sombra Mezcal
-          .5 oz. Bénédictine
-          2 dashes Angostura Bitters
-          Shake with ice and strain into a chilled coupe
-          Garnish with an orange twist
-          —Euclides López, Spring 2009
-          Tamarind Purée
-          48 oz. Water
-          13 oz. Peeled Tamarind
-          Add the peeled tamarind to a pot filled with the water and boil over high heat for 15 minutes. Remove from heat. While the mixture is still warm, strain it through a china cap using the back of a spoon to force as much of the tamarind through the strainer as possible.
-          Store in a squeeze bottle in the refrigerator
-          Yield: approx. 32 oz.
-
 - name: TUXEDO
   recipe: |
           2 oz. Plymouth Gin
@@ -3222,26 +2523,6 @@
           Garnish with a lemon twist
           —Hugo Ensslin, Recipes for Mixed Drinks, 1916
 
-- name: VACCARI
-  recipe: |
-          1.5 oz. Chamomile-Infused Compass
-          Box Asyla Blended Scotch Whisky
-          .75 oz. Dolin Dry Vermouth
-          .5 oz. Galliano L’Autentico
-          1 dash The Bitter TruthGrapefruit Bitters
-          1 dash The Bitter Truth Lemon Bitters
-          Stirred - chilled rocks glass and one large ice cube
-          Garnish with a grapefruit twist
-          —Naren Young, New York, 2010
-          Chamomile-Infused Compass Box
-          Asyla Blended Scotch Whisky
-          1 750-ml bottle Compass Box Asyla
-          .5 oz. In Pursuit of Tea
-          Chamomile Flowers
-          Combine the tea with the whisky in a nonreactive container. Infuse for 20 minutes
-          Fine-strain and bottle
-          Yield: approx. 24 oz.
-
 - name: VAUVERT SLIM
   recipe: |
           2 oz. Grapefruit Juice
@@ -3250,7 +2531,7 @@
           7 Mint Leaves
           1 Egg White
           Muddle 6 mint leaves with the lime juice
-          Add everything else, then dry-shake. Shake with ice and fine-strain into a chilled, Laphroaig 10-Year-Old Single Malt Scotch-rinsed egg coupe
+          Shaken (dry-shake then shake with ice) - chilled, Laphroaig 10-Year-Old Single Malt Scotch-rinsed egg coupe
           Garnish with a mint leaf
           —Ryan Noreiks, Brisbane, 2009
 
@@ -3261,7 +2542,7 @@
           .5 oz. Marie Brizard White
           Crème de Cacao
           Stirred - chilled coupe
-          Top with 1 oz. Moët Imperial Champagne
+          1 oz. Moët Imperial Champagne to top
           No garnish
           —Jane Danger, Winter 2008
 
@@ -3280,7 +2561,7 @@
           .75 oz. Lemon Juice
           .5 oz. St. Germain Elderflower Liqueur
           .5 oz. Simple Syrup
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           No garnish
           —Don Lee, Fall 2007
 
@@ -3303,7 +2584,7 @@
           .5 oz. Orange Juice
           .25 oz. Simple Syrup
           1 barspoon Al Wadi Pomegranate Molasses
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           No garnish
           —The Cocktail Book: A Sideboard Manual for Gentleman, 1913
 
@@ -3313,7 +2594,7 @@
           .75 oz. Rothman & Winter Crème de Violette
           .75 oz. Cointreau
           .75 oz. Lemon Juice
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           Garnish with an orange twist
           —Richard Boccato, New York, 2007
 
@@ -3327,26 +2608,14 @@
           Garnish with an orange twist
           —David Wondrich, New York, 2003
 
-- name: WELLINGTON FIZZ
-  recipe: |
-          2 oz. 42 Below Kiwi Vodka
-          1 oz. Heavy Cream
-          .75 oz. Lime Juice
-          .5 oz. Boiron Passion Fruit Purée
-          .5 oz. Kassatly Chtaura Orgeat
-          1 Egg White
-          Dry shake, then shake with ice and strain into a chilled Collins glass
-          Top with 1 oz. club soda and garnish with 3 spritzes of diluted Aftel Bergamot Essence
-          —Sean Hoard, Spring 2010
-
 - name: WHISKEY SMASH
   recipe: |
           2 oz. Rittenhouse Bonded Rye Whiskey
           3 Lemon Wedges
           .75 oz. Simple Syrup
           6 Mint Leaves (plus 1 Mint Sprig for garnish)
-          Muddle the lemon wedges, mint leaves, and simple syrup
-          Add the rye, then shake with ice and fine-strain into a chilled rocks glass filled with ice
+          Muddle the lemon wedges and mint leaves with simple syrup
+          Shaken - chilled rocks glass filled with ice
           Garnish with a mint sprig
           —Dale DeGroff, New York, 1999
 
@@ -3357,8 +2626,9 @@
           .5 oz. Strega
           .5 oz. Rothman & Winter Orchard Apricot
           1 Egg White
-          Dry-shake, then shake with ice. Strain into a chilled Collins glass
-          Top with 2 oz. club soda and garnish with a spritz of Suze
+          Shaken (dry-shake then shake with ice) - Collins glass
+          2 oz. Club Soda and to top
+          Garnish with a spritz of Suze
           —John deBary, Fall 2009
 
 - name: WHITE LADY
@@ -3368,7 +2638,7 @@
           .75 oz. Lemon Juice
           .25 oz. Simple Syrup
           1 Egg White
-          Dry-shake, then shake with ice and strain into a chilled egg coupe
+          Shaken (dry-shake then shake with ice) - chilled egg coupe
           No garnish
           —Harry McElhone, ABC of Mixing Cocktails, 1929
 
@@ -3397,7 +2667,7 @@
           .75 oz. Lemon Juice
           .5 oz. Strega
           1 barspoon Red Jacket Orchards Apple Butter
-          Shake with ice and strain into a chilled coupe
+          Shaken - chilled coupe
           Garnish with a lemon twist
           —Jim Meehan, Fall 2008
 
@@ -3432,6 +2702,6 @@
           1 barspoon House Grenadine
           1/8 tsp. Vieux Pontarlier Absinthe
           1 dash Angostura Bitters
-          Shake with ice and strain into a chilled tiki mug filled with pebble ice
+          Shaken - chilled tiki mug filled with pebble ice
           Garnish with a mint sprig
           —Don the Beachcomber, 1934
