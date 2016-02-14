@@ -33,7 +33,7 @@
           Zest the peel of half a tangerine into a mixing glass
           Add everything else
           Stirred - rocks glass
-          1 oz. Q Tonic to top
+          1 oz. Q Tonic Water to top
           Garnish with grated nutmeg
           —Daniel Eun, Winter 2008
 
@@ -81,7 +81,7 @@
 - name: AGAINST ALL ODDS COCKTAIL
   recipe: |
           1.5 oz. Bushmills Irish Whiskey
-          1.5 oz. Channing Daughters Scuttlehole Chardonnay
+          1.5 oz. Chardonnay
           .5 oz. Rothman & Winter Orchard Apricot
           .25 oz. Rhum Clément Creole Shrubb
           Stirred - chilled coupe (Mezcal-rinsed)
@@ -100,7 +100,7 @@
 
 - name: AIRMAIL
   recipe: |
-          1 oz. Banks 5 Island Rum
+          1 oz. Banks 5 Island Light Rum
           .5 oz. Lime Juice
           .5 oz. Honey Syrup
           Shaken - chilled coupe
@@ -123,8 +123,7 @@
   recipe: |
           1.5 oz. Carpano Antica Sweet Vermouth
           1.5 oz. Campari
-          Build in glass - Collins glass
-          Add ice
+          Built (in glass) - Collins glass and ice
           2.5 oz. Club Soda to top
           Garnish with half an orange wheel
           —Leurs Cocktails Par Antoine, 1932
@@ -233,7 +232,7 @@
 - name: BEER CASSIS
   recipe: |
           1 oz. Dubonnet Rouge
-          .25 oz. Theuriet Cassis
+          .25 oz. Theuriet Crème de Cassis
           Stirred - chilled white wine glass
           6 oz. Brooklyn Brewery Local 1 to top
           Garnish with a lemon twist
@@ -327,7 +326,7 @@
 - name: BLACK THORN (ENGLISH)
   recipe: |
           1.5 oz. Plymouth Gin
-          .75 oz. Plymouth Sloe Gin
+          .75 oz. Plymouth Sloe-Gin
           .75 oz. Carpano Antica Sweet Vermouth
           2 dashes House Orange Bitters
           Stirred - chilled coupe
@@ -346,7 +345,7 @@
 - name: BLACK THORN ROSE
   recipe: |
           2 oz. Hendrick’s Gin
-          .5 oz. Plymouth Sloe Gin
+          .5 oz. Plymouth Sloe-Gin
           .5 oz. Lillet Rouge
           1 barspoon Mymoune Rose Syrup
           Stirred - chilled coupe
@@ -662,14 +661,13 @@
           .75 oz. Cherry Heering
           .75 oz. Lime Juice
           .5 oz. Pineapple Juice
-          Build in a chilled Collins glass
-          Fill with pebble ice and swizzle
+          Built (in glass) and Swizzled- chilled Collins glass and pebble ice
           Add more ice and garnish with a lime wheel and brandied cherries on a pick
           —John Deragon, Fall 2008
 
 - name: DAIQUIRI
   recipe: |
-          2 oz. Banks 5 Island Rum
+          2 oz. Banks 5 Island Light Rum
           .75 oz. Lime Juice
           .75 oz. Simple Syrup
           Shaken - chilled coupe
@@ -749,7 +747,7 @@
 - name: DULCE DE LECHE
   recipe: |
           1.25 oz. Don Julio Añejo Tequila
-          .75 oz. Toro Albalá Pedro Ximénez
+          .75 oz. Toro Albalá Pedro Ximénez Sherry
           .5 oz. Heavy Cream
           1 Whole Organic Egg
           Twist a grapefruit peel into a mixing glass
@@ -832,7 +830,7 @@
 
 - name: EL PUENTE
   recipe: |
-          1.5 oz. José Cuervo Platino Tequila
+          1.5 oz. José Cuervo Platino Blanco Tequila
           .75 oz. Grapefruit Juice
           .5 oz. Martini Bianco Vermouth
           .5 oz. St. Germain Elderflower Liqueur
@@ -842,7 +840,7 @@
 
 - name: EPHEMERAL
   recipe: |
-          2 oz. Ransom Old Tom Gin
+          2 oz. Ransom Old Tom (gin)
           1 oz. Dolin Blanc Vermouth
           1 barspoon St. Germain Elderflower Liqueur
           1 dash The Bitter Truth Celery Bitters
@@ -1005,7 +1003,7 @@
           1 oz. Rhum Clément V.S.O.P.
           1 oz. Mãe de Ouro Cachaça
           .75 oz. Lime Juice
-          .5 oz. Lustau Pedro Ximénez
+          .5 oz. Lustau Pedro Ximénez Sherry
           1 barspoon St. Elizabeth Allspice Dram
           Shaken - chilled coupe
           Garnish with grated nutmeg
@@ -1033,7 +1031,7 @@
 - name: GREAT PUMPKIN
   recipe: |
           2 oz. Southampton Pumpkin Ale
-          1 oz. Rittenhouse Bonded RyeWhiskey
+          1 oz. Rittenhouse Bonded Rye Whiskey
           1 oz. Laird’s Bonded Apple Brandy
           .5 oz. Deep Mountain Grade B Maple Syrup
           1 Whole Egg
@@ -1046,7 +1044,7 @@
   recipe: |
           1.5 oz. Plymouth Gin
           1 oz. Grapefruit Juice
-          .75 oz. Plymouth Sloe Gin
+          .75 oz. Plymouth Sloe-Gin
           Shaken - chilled, St. George Absinthe-rinsed coupe
           No garnish
           —Jim Meehan, Fall 2008
@@ -1054,7 +1052,7 @@
 - name: GREEN HARVEST
   recipe: |
           2 oz. Chilled Brewed Hibiscus Tea
-          1.5 oz. José Cuervo Platino Tequila
+          1.5 oz. José Cuervo Platino Blanco Tequila
           .5 oz. Green Chartreuse
           7 Concord Grapes (reserve 3 for garnish)
           Muddle the grapes
@@ -1064,7 +1062,7 @@
 
 - name: GREENPOINT
   recipe: |
-          2 oz. Rittenhouse Bonded
+          2 oz. Rittenhouse Bonded Rye Whiskey
           Rye Whiskey
           1 oz. Punt e Mes
           1 barspoon Yellow Chartreuse
@@ -1107,7 +1105,7 @@
 
 - name: HEIRLOOM
   recipe: |
-          1.5 oz. Hayman’s Old Tom Gin
+          1.5 oz. Hayman’s Old Tom (gin)
           .5 oz. Cynar
           .5 oz. Lime Juice
           .25 oz. Strega
@@ -1119,7 +1117,7 @@
 
 - name: HEMINGWAY DAIQUIRI
   recipe: |
-          2 oz. Banks 5 Island Rum
+          2 oz. Banks 5 Island Light Rum
           .75 oz. Lime Juice
           .5 oz. Luxardo Maraschino Liqueur
           .5 oz. Grapefruit Juice
@@ -1130,7 +1128,7 @@
 - name: HENRY HUDSON
   recipe: |
           1.5 oz. Bols Genever
-          1 oz. Channing Daughters Scuttlehole Chardonnay
+          1 oz. Chardonnay
           .5 oz. Lemon Juice
           .5 oz. Simple Syrup
           .25 oz. van Oosten Batavia Arrack
@@ -1207,7 +1205,7 @@
           Add cognac
           Stirred - chilled egg coupe and three cracked ice cubes the
           Add Angostura Bitters soaked sugar cube
-          2 oz. Möet Imperial Champagne to top
+          2 oz. Champagne to top
           Green Chartreuse float
           No garnish
           —Charles Baker, The Gentleman’s Companion, 1937
@@ -1289,7 +1287,7 @@
 
 - name: LACRIMOSA
   recipe: |
-          2 oz. Rittenhouse Bonded RyeWhiskey
+          2 oz. Rittenhouse Bonded Rye Whiskey
           .75 oz. Luxardo Bitter
           .75 oz. Amaro Ciociaro
           Stirred - chilled rocks glass and one large cube
@@ -1298,7 +1296,7 @@
 
 - name: LA FLORIDA COCKTAIL
   recipe: |
-          2 oz. Banks 5 Island Rum
+          2 oz. Banks 5 Island Light Rum
           75 oz. Lime Juice
           .5 oz. Marie Brizard Crème de Cacao
           .25 oz. Martini Sweet Vermouth
@@ -1435,7 +1433,7 @@
 
 - name: MAI-TAI
   recipe: |
-          1 oz. Banks 5 Island Rum
+          1 oz. Banks 5 Island Light Rum
           1 oz. Rhum Clément V.S.O.P.
           1 oz. Lime Juice
           .5 oz. Marie Brizard Orange Curaçao
@@ -1455,7 +1453,7 @@
 
 - name: MARGARITA
   recipe: |
-          2 oz. El Tesoro Platinum Tequila
+          2 oz. El Tesoro Platinum Blanco Tequila
           .75 oz. Cointreau
           .75 oz. Lime Juice
           .25 oz. Agave Syrup
@@ -1465,7 +1463,7 @@
 
 - name: MARTINEZ
   recipe: |
-          1.5 oz. Hayman’s Old Tom Gin
+          1.5 oz. Hayman’s Old Tom (gin)
           1.5 oz. Dolin Sweet Vermouth
           .25 oz. Luxardo Maraschino Liqueur
           2 dashes Adam Elmegirab’s Boker’s Bitters
@@ -1483,7 +1481,7 @@
 
 - name: MARY PICKFORD
   recipe: |
-          2 oz. Banks 5 Island Rum
+          2 oz. Banks 5 Island Light Rum
           .75 oz. Pineapple Juice
           .5 oz. Luxardo Maraschino Liqueur
           .25 oz. House Grenadine
@@ -1562,7 +1560,7 @@
           2 oz. Heart of the Hudson Apple Vodka
           1 oz. Masumi Arabishiri Sake
           .25 oz. Simple Syrup
-          3 ¼-inch Slices Granny Smith Apple
+          3 ¼-inch Slices of Granny Smith Apples
           2 Mint Leaves
           Muddle the apple slices, mint leaves, and simple syrup
           Add everything else and ice.
@@ -1582,7 +1580,7 @@
 
 - name: MOJITO
   recipe: |
-          2 oz. Banks 5 Island Rum
+          2 oz. Banks 5 Island Light Rum
           1 oz. Simple Syrup
           .75 oz. Lime Juice
           8 Mint Leaves (plus 1 mint sprig for garnish)
@@ -1706,7 +1704,7 @@
 - name: NOCE ROYALE
   recipe: |
           1.5 oz. Beefeater Gin
-          .5 oz. Plymouth Sloe Gin
+          .5 oz. Plymouth Sloe-Gin
           .25 oz. Monteverdi Nocino
           Stirred - chilled coupe
           2 oz. Moët Imperial Champagne to top
@@ -1739,7 +1737,7 @@
   recipe: |
           2 oz. Beaujolais Nouveau
           1.5 oz. Laird’s Bonded Apple Brandy
-          .5 oz. Plymouth Sloe Gin
+          .5 oz. Plymouth Sloe-Gin
           .25 oz. Deep Mountain Grade B Maple Syrup
           2 dashes Angostura Bitters
           Stirred - chilled coupe
@@ -1751,7 +1749,7 @@
           2 oz. Noval Black Port
           .5 oz. Lemon Juice
           .5 oz. Simple Syrup
-          1 Strawberry
+          1-2 Strawberries
           Muddle strawberry with simple syrup,
           Shaken - chilled Collins glass filled with ice
           2 oz. Club Soda to top
@@ -1834,7 +1832,7 @@
 
 - name: PADDINGTON
   recipe: |
-          1.5 oz. Banks 5 Island Rum
+          1.5 oz. Banks 5 Island Light Rum
           .5 oz. Lillet Blanc
           .5 oz. Grapefruit Juice
           .5 oz. Lemon Juice
@@ -1857,7 +1855,7 @@
   recipe: |
           2 oz. Siete Leguas Reposado Tequila
           .5 oz. Lime Juice
-          Built - chilled salt-rimmed Collins glass and add ice
+          Built (in glass) - chilled salt-rimmed Collins glass and ice
           2 oz. Ting Grapefruit Soda to top
           Garnish with a half a grapefruit wheel
           —David Wondrich, Killer Cocktails, 2005
@@ -1910,7 +1908,7 @@
   recipe: |
           1 oz. Laird’s Applejack
           .75 oz. Dolin Sweet Vermouth
-          .5 oz. Plymouth Sloe Gin
+          .5 oz. Plymouth Sloe-Gin
           .5 oz. Lemon Juice
           .5 oz. Simple Syrup
           Stirred - chilled coupe
@@ -1997,7 +1995,7 @@
 - name: PUMPKIN TODDY
   recipe: |
           1 oz. Laird’s Bonded Apple Brandy
-          .5 oz. Rittenhouse Bonded RyeWhiskey
+          .5 oz. Rittenhouse Bonded Rye Whiskey
           .5 oz. Lemon Juice
           .5 oz. Deep Mountain Grade B Maple Syrup
           1 tsp. Libby’s Pumpkin Purée
@@ -2132,7 +2130,7 @@
 
 - name: RHUM CLUB
   recipe: |
-          2 oz. Banks 5 Island Rum
+          2 oz. Banks 5 Island Light Rum
           .75 oz. Lime Juice
           .5 oz. Rhum Clément Creole Shrubb
           .25 oz. Martinique Sugar Cane Syrup(or Simple Syrup)
@@ -2269,7 +2267,7 @@
 
 - name: SIESTA
   recipe: |
-          2 oz. El Tesoro Platinum Tequila
+          2 oz. El Tesoro Platinum Blanco Tequila
           .5 oz. Campari
           .5 oz. Lime Juice
           .5 oz. Grapefruit Juice
@@ -2318,7 +2316,7 @@
 
 - name: SLOE GIN FIZZ
   recipe: |
-          1 oz. Plymouth Sloe Gin
+          1 oz. Plymouth Sloe-Gin
           1 oz. Plymouth Gin
           .75 oz. Lemon Juice
           .25 oz. Simple Syrup
@@ -2465,7 +2463,7 @@
 
 - name: TOM COLLINS
   recipe: |
-          2 oz. Hayman’s Old Tom Gin
+          2 oz. Hayman’s Old Tom (gin)
           .75 oz. Lemon Juice
           .5 oz. Simple Syrup
           Shaken - chilled Collins glass filled with ice
@@ -2539,7 +2537,7 @@
   recipe: |
           1 oz. Hine V.S.O.P. Cognac
           .5 oz. Lillet Blanc
-          .5 oz. Marie Brizard White
+          .5 oz. Marie Brizard White Crème de Cacao
           Crème de Cacao
           Stirred - chilled coupe
           1 oz. Moët Imperial Champagne to top
@@ -2663,7 +2661,7 @@
 
 - name: WITCH’S KISS
   recipe: |
-          2 oz. José Cuervo Platino Tequila
+          2 oz. José Cuervo Platino Blanco Tequila
           .75 oz. Lemon Juice
           .5 oz. Strega
           1 barspoon Red Jacket Orchards Apple Butter

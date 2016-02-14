@@ -1,51 +1,216 @@
-- name: Gin
-- name: Vodka
-- name: Green Chartreuse
-- name: Yellow Chartreuse
-- name: Cynar
 - name: Reposado Tequila
-- name: Blanco Tequila
-- name: Dry Vermouth
-- name: Sweet Vermouth
-- name: Bourbon
-- name: Scotch
-- name: Irish Whiskey
-- name: Lillet Blanc
-- name: Cognac
-- name: Mezcal
-- name: Pineapple Juice
-- name: Angostura Bitters
-- name: Celery Bitters
+- name: Sherry
+- name: Bärenjäger
 - name: Orange Bitters
-- name: Old Fashion Bitters
-- name: Bitters
-- name: Aperol
-- name: Campari
-- name: Honey Syrup
-- name: Prosecco
-- name: Lime Juice
-- name: Orange Juice
+- name: Cognac
+- name: Ginger Beer
+- name: Sweet Vermouth
+- name: Orange Curaçao
+- name: Cherry Heering
 - name: Lemon Juice
-- name: Grapefruit Juice
-- name: Melon Juice
-- name: Luxardo Maraschino Liqueur
-- name: Rye
-- name: Amber Rum
-- name: Silver Rum
-- name: Crème de Violette
-- name: Crème de Cacao
-- name: Absinthe
-- name: Ginger Liqueur
-- name: Egg
+- name: Mint Leaves
 - name: Cucumber
-- name: Elderflower Liqueur
-- name: Club Soda
-- name: Simple Syrup
-- name: Maple Syrup
-- name: Cholula
-- name: Tonic Syrup
+- name: Oranges
+- name: Bourbon
+- name: Bek Se Ju
+- name: Rice Syrup
+- name: Old Fashion Bitters
+- name: Tonic Water
+- name: Grapefruit Juice
+- name: Aperol
+- name: Gin
+- name: Crème de Cacao
+- name: Lillet Blanc
+- name: Blanco Tequila
+- name: Absinthe
+- name: Sugar
+- name: Irish Whiskey
 - name: Chardonnay
-- name: Apricot Liqueur
+- name: Orchard Apricot
 - name: Creole Shrubb
-- name: Blanc Vermouth
+- name: Melon Juice
+- name: Ginger Liqueur
+- name: Crème de Violette
+- name: Lime Juice
+- name: Honey Syrup
+- name: Champagne
+- name: Green Chartreuse
+- name: Elderflower Liqueur
+- name: Campari
+- name: Club Soda
+- name: Rye Whiskey
+- name: Dry Vermouth
+- name: Pineapple Juice
+- name: Prosecco
+- name: Orange Juice
+- name: Rum
+- name: Apfel Schnapps
+- name: Simple Syrup
+- name: Apple Brandy
+- name: Maple Syrup
+- name: Egg
+- name: Bianco Vermouth
+- name: Maraschino Liqueur
 - name: Orgeat
+- name: Mezcal
+- name: Celery Bitters
+- name: Cholula
+- name: Pilsner
+- name: Dubonnet Rouge
+- name: Crème de Cassis
+- name: Golden Ale
+- name: Cynar
+- name: Ruby Port
+- name: Grand Marnier
+- name: Angostura bitters
+- name: Rosé
+- name: Luxardo Bitter
+- name: Amaro Ciociaro
+- name: Aquavit
+- name: Agave Syrup
+- name: Blackberries
+- name: Chocolate Stout
+- name: Demerara Syrup
+- name: Vodka
+- name: Sambuca
+- name: Sloe-Gin
+- name: Angostura Bitters
+- name: Lillet Rouge
+- name: Rose Syrup
+- name: Raspberry Preserves
+- name: Scotch Whisky
+- name: Bénédictine
+- name: Sake
+- name: Corn Whiskey
+- name: Amer Picon
+- name: Tennessee Whisky
+- name: Suze
+- name: Pisco
+- name: Amargo Bitters
+- name: Cachaça
+- name: Cointreau
+- name: Bonne Maman
+- name: Plymouth Gin
+- name: Pitted Cherries
+- name: Coconut Water
+- name: Rhum Blanc
+- name: Yellow Chartreuse
+- name: Coconut Sorbet
+- name: Spicy Brown Mustard
+- name: Cranberry Juice
+- name: Peychaud’s Bitters
+- name: Lemon Bitters
+- name: Fernet-Branca
+- name: Añejo Tequila
+- name: Heavy Cream
+- name: Punt e Mes
+- name: Old Tom (gin)
+- name: Blanc Vermouth
+- name: Espresso Liqueur
+- name: Passion Fruit Purée
+- name: Riesling
+- name: Pear Brandy
+- name: Luxardo Amaretto
+- name: Fig Jam
+- name: Mathilde Pêche
+- name: Plum Brandy
+- name: Genever
+- name: Crème Yvette
+- name: Rhubarb Bitters
+- name: Framboise
+- name: Averna Amaro
+- name: Grapefruit Bitters
+- name: Lime Cordial
+- name: Tonic Syrup
+- name: Rhum Clément
+- name: Allspice Dram
+- name: Carlshamns Flaggpunsch
+- name: Dill
+- name: Pumpkin Ale
+- name: Hibiscus Tea
+- name: Concord Grapes
+- name: Fernet Branca
+- name: Abbott’s Bitters
+- name: Strega
+- name: van Oosten Batavia Arrack
+- name: Rosemary
+- name: Grenadine
+- name: Apple Schnapps
+- name: Jerry Thomas Bitters
+- name: Bitter Lemon Soda
+- name: Japanese Single Malt Whisky
+- name: Madeira
+- name: Cocchi Americano
+- name: Nonino Gioiello
+- name: House Grenadine
+- name: Jameson Irish Whiskey
+- name: Drambuie
+- name: Pear Liqueur
+- name: Tanqueray Gin
+- name: Partida Blanco Tequila
+- name: Bell Pepper
+- name: Xocolatl Mole Bitters
+- name: Genevieve
+- name: Chamomile Tea
+- name: Jalapeño
+- name: Boker’s Bitters
+- name: Herb Pharm Goldenseal Tincture
+- name: Watermelon Juice
+- name: Gran Classico Bitter
+- name: Milk
+- name: Apples
+- name: Pomegranate Molasses
+- name: Brandy de Jerez
+- name: Grapefruit juice
+- name: Apple Cider
+- name: Kirschwasser
+- name: Apple BranSweet Vermouth
+- name: Brandied Cherries
+- name: White Ale
+- name: Vanilla Liqueur
+- name: Barrel Aged Bitters
+- name: Monteverdi Nocino
+- name: Sparkling Cider
+- name: Beaujolais Nouveau
+- name: Black Port
+- name: Linie Aquavit
+- name: Nonino Amaro
+- name: Mandarin Napoleon
+- name: Orange Marmalade
+- name: Galliano L’Autentico
+- name: Grapefruit Soda
+- name: San Pellegrino Limonata
+- name: Rose Flower Water
+- name: Laird’s Applejack
+- name: Pimms #1 Cup
+- name: Crème de Banane
+- name: Krogstad Aquavit
+- name: Asparagus
+- name: Fennel Bulb
+- name: Celery Stalk
+- name: Pumpkin Purée
+- name: Tawny Port
+- name: Orange Flower Water
+- name: Tokaji
+- name: Pomegranate Liqueur
+- name: Pernod
+- name: Verbena Bitters
+- name: Strawberries
+- name: Rhubarb Purée
+- name: Partida Reposado Tequila
+- name: Martini Sweet Vermouth
+- name: Dolin Dry Vermouth
+- name: 8-Year-Old Rhum
+- name: Velvet Falernum
+- name: Grapefruit Cordial
+- name: Licor
+- name: Root Beer
+- name: Orchard Pear
+- name: Zwack
+- name: Strawberry Preserves
+- name: Godiva Original Liqueur
+- name: Peach Bitters
+- name: Lemon Wedges
+- name: Apple Butter
+- name: Quince Shrubb (Huilerie Beaujolaise Vinaigre de Coing)
+- name: Trader Tiki’s Don’s Mix
