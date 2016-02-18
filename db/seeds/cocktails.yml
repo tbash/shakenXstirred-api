@@ -1,4 +1,4 @@
-- name: #8
+- name: '#8'
   recipe: |
           2 oz. Don Julio Reposado Tequila
           .75 oz. Lustau Palo Cortado Sherry
@@ -8,7 +8,7 @@
           Garnish with a lemon twist
           —Daniel Eun, Fall 2008
 
-- name: #3 CUP
+- name: '#3 CUP'
   recipe: |
           1 oz. Hine V.S.O.P. Cognac
           1 oz. House Ginger Beer
