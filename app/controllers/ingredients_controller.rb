@@ -1,5 +1,6 @@
 class IngredientsController < ApplicationController
   before_action :set_ingredient, only: [:show]
+  before_action :authenticate_user!
 
   # GET /ingredients
   def index

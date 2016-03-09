@@ -1,4 +1,5 @@
 class FeedsController < ApplicationController
+  before_action :authenticate_user!
 
   # GET /feed
   def index

@@ -1,5 +1,6 @@
 class CocktailsController < ApplicationController
   before_action :set_cocktail, only: [:show]
+  before_action :authenticate_user!
 
   # GET /cocktails
   def index

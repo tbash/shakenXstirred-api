@@ -1,5 +1,6 @@
 class UsersController < ApplicationController
   before_action :set_user, only: [:show, :follow]
+  before_action :authenticate_user!
 
   # GET /users
   def index
