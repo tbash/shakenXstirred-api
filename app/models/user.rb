@@ -1,8 +1,6 @@
 class User < ActiveRecord::Base
-  # Include default devise modules.
   devise :database_authenticatable, :registerable,
           :recoverable, :rememberable, :trackable, :validatable
-          #, :confirmable, :omniauthable
   include DeviseTokenAuth::Concerns::User
 
   has_many :user_cocktails
@@ -19,7 +17,7 @@ class User < ActiveRecord::Base
   has_many :followers, through: :passive_relationships
   has_many :feeds
 
-  def update_cocktails(ingredient_ids)
+  def update_cocktails
     cocktail_ids = Mixture.where(ingredient_id: ingredient_ids).pluck(:cocktail_id).uniq
     cocktails = Cocktail.where(id: cocktail_ids)
     can_make = []
@@ -32,12 +30,6 @@ class User < ActiveRecord::Base
     self.cocktails = can_make
 
     self.feeds.create(content: "#{self.name} updated their inventory!!")
-  end
-
-  def update_inventory(ingredient_ids)
-    ingredients = Ingredient.find(ingredient_ids)
-    self.ingredients = ingredients
-    self.update_cocktails ingredient_ids
   end
 
   # Follows a user

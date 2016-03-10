@@ -16,12 +16,22 @@ class UsersController < ApplicationController
 
   # POST /update_inventory
   def update_inventory
-    current_user.update_inventory(params[:ingredient_ids])
+    current_user.update(user_params)
+    current_user.update_cocktails
   end
 
-  # POST /users/1/follow
+  # GET /users/1/follow
   def follow
-    current_user.follow @user
+    unless following?(@user.id) || current_user == @user
+      current_user.follow @user
+    end
+  end
+
+  # GET /users/1/unfollow
+  def unfollow
+    if following?(@user.id)
+      current_user.unfollow @user
+    end
   end
 
   private
