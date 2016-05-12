@@ -3,10 +3,17 @@ class User < ActiveRecord::Base
           :recoverable, :rememberable, :trackable, :validatable
   include DeviseTokenAuth::Concerns::User
 
-  has_many :user_cocktails
+  has_attached_file :avatar, styles: { medium: "600x600>", thumb: "100x100>" },
+                    default_url: "http://d27rch7fw5pld4.cloudfront.net/default-thumb.png"
+  validates_attachment_content_type :avatar, content_type: /\Aimage\/.*\Z/
+
+  has_many :user_cocktails, dependent: :destroy
   has_many :cocktails, through: :user_cocktails
-  has_many :inventories
+  has_many :inventories, dependent: :destroy
   has_many :ingredients, through: :inventories
+  has_many :saved_cocktails, dependent: :destroy
+  has_many :saves, through: :saved_cocktails,
+                   source:  :cockatail
   has_many :active_relationships, class_name:  "Relationship",
                                   foreign_key: 'follower_id',
                                   dependent: :destroy
@@ -15,7 +22,9 @@ class User < ActiveRecord::Base
                                    dependent:   :destroy
   has_many :following, through: :active_relationships, source: :followed
   has_many :followers, through: :passive_relationships
-  has_many :feeds
+  validates :name, presence: true,
+                   uniqueness: { case_sensitive: false },
+                   format: { with: /^[a-zA-Z0-9_\.]*$/ }
 
   def update_cocktails
     cocktail_ids = Mixture.where(ingredient_id: ingredient_ids).pluck(:cocktail_id).uniq
@@ -28,15 +37,11 @@ class User < ActiveRecord::Base
     end
 
     self.cocktails = can_make
-
-    self.feeds.create(content: "#{self.name} updated their inventory!!")
   end
 
   # Follows a user
   def follow(other_user)
     active_relationships.create(followed_id: other_user.id)
-    followee = active_relationships.last.followed
-    self.feeds.create(content: "#{self.name} is now following #{followee.name}")
   end
 
   # Unfollows a user
@@ -49,8 +54,18 @@ class User < ActiveRecord::Base
     following.include?(other_user)
   end
 
-  def followers_feed
-    user_ids = self.following.pluck(:id)
-    Feed.where(user_id: user_ids)
+  # Saves a cocktail
+  def save_cocktail(cocktail)
+    saves.create(cocktail_id: cocktail.id)
+  end
+
+  # Unsaves a cocktail
+  def unsave_cocktail(cocktail)
+    saves.find_by(cocktail_id: cocktail.id).destroy
+  end
+
+  # Returns true if the current user saved the arg cocktail
+  def saved_cocktail?(cocktail)
+    saves.include?(cocktail)
   end
 end

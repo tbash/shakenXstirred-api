@@ -20,16 +20,16 @@ class UsersController < ApplicationController
     current_user.update_cocktails
   end
 
-  # GET /users/1/follow
+  # PUT /users/1/follow
   def follow
-    unless following?(@user.id) || current_user == @user
+    unless current_user.following?(@user.id) || current_user == @user
       current_user.follow @user
     end
   end
 
-  # GET /users/1/unfollow
+  # DELETE /users/1/unfollow
   def unfollow
-    if following?(@user.id)
+    if current_user.following?(@user.id)
       current_user.unfollow @user
     end
   end
@@ -37,7 +37,7 @@ class UsersController < ApplicationController
   private
     # Use callbacks to share common setup or constraints between actions.
     def set_user
-      @user = User.find(params[:id])
+      @user = User.find_by_name(params[:name])
     end
 
     # Only allow a trusted parameter "white list" through.

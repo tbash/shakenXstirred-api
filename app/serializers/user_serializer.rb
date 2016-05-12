@@ -1,5 +1,5 @@
 class UserSerializer < ActiveModel::Serializer
-  attributes :id, :name
+  attributes :name
   has_many :cocktails
   has_many :ingredients
   has_many :followers

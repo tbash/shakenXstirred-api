@@ -1,0 +1,2 @@
+class SavedCocktail < ApplicationRecord
+end

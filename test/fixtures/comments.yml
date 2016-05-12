@@ -2,8 +2,10 @@
 
 one:
   user: 
-  content: MyString
+  post: 
+  caption: MyString
 
 two:
   user: 
-  content: MyString
+  post: 
+  caption: MyString
