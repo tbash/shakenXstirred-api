@@ -1,4 +1,4 @@
-class CocktailsController < ApplicationController
+class Api::V1::CocktailsController < ApplicationController
   before_action :authenticate_user!
   before_action :set_cocktail, only: [:show, :unsave_cocktail, :save_cocktail]
 

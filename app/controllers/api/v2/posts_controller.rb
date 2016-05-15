@@ -1,4 +1,4 @@
-class PostsController < ApplicationController
+class Api::V2::PostsController < ApplicationController
   before_action :authenticate_user!
   before_action :set_post, only: [:show, :update, :destroy]
 

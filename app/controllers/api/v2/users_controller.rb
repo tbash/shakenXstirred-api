@@ -1,5 +1,5 @@
-class UsersController < ApplicationController
-  before_action :set_user, only: [:show, :follow]
+class Api::V2::UsersController < ApplicationController
+  before_action :set_user, only: [:show, :follow, :unfollow]
   before_action :authenticate_user!
 
   # GET /users

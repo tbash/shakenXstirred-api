@@ -24,7 +24,7 @@ class User < ActiveRecord::Base
   has_many :followers, through: :passive_relationships
   validates :name, presence: true,
                    uniqueness: { case_sensitive: false },
-                   format: { with: /^[a-zA-Z0-9_\.]*$/ }
+                   format: { with: /\A[a-zA-Z0-9\-_]+\z/ }
 
   def update_cocktails
     cocktail_ids = Mixture.where(ingredient_id: ingredient_ids).pluck(:cocktail_id).uniq

@@ -1,4 +1,4 @@
-class IngredientsController < ApplicationController
+class Api::V1::IngredientsController < ApplicationController
   before_action :authenticate_user!
 
   # GET /ingredients
