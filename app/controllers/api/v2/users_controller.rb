@@ -1,6 +1,11 @@
 class Api::V2::UsersController < ApplicationController
+  before_action authenticate_api_user!
   before_action :set_user, only: [:show, :follow, :unfollow]
-  before_action :authenticate_user!
+
+  # GET /me
+  def me
+    render json: current_api_user
+  end
 
   # GET /users
   def index
@@ -14,24 +19,19 @@ class Api::V2::UsersController < ApplicationController
     render json: @user
   end
 
-  # POST /update_inventory
+  # PUT /update_inventory
   def update_inventory
-    current_user.update(user_params)
-    current_user.update_cocktails
+    current_api_user.update_inventory(user_params[:ingredient_ids])
   end
 
   # PUT /users/1/follow
   def follow
-    unless current_user.following?(@user.id) || current_user == @user
-      current_user.follow @user
-    end
+    current_api_user.follow @user unless current_api_user == @user
   end
 
   # DELETE /users/1/unfollow
   def unfollow
-    if current_user.following?(@user.id)
-      current_user.unfollow @user
-    end
+    current_api_user.unfollow @user
   end
 
   private
@@ -42,6 +42,6 @@ class Api::V2::UsersController < ApplicationController
 
     # Only allow a trusted parameter "white list" through.
     def user_params
-      params.require(:user).permit(ingredient_ids: [])
+      params.require(:user).permit(:ingredient_ids => [])
     end
 end

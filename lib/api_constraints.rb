@@ -1,4 +1,4 @@
-class ApiContraints
+class ApiConstraints
   def initialize(opts)
     @version = opts[:version]
     @default = opts[:default]

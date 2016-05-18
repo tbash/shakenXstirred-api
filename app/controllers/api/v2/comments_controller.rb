@@ -1,5 +1,7 @@
 class Api::V2::CommentsController < ApplicationController
+  before_action authenticate_api_user!
   before_action :set_comment, only: [:update, :destroy]
+
 
   # POST /comments
   def create
@@ -14,7 +16,7 @@ class Api::V2::CommentsController < ApplicationController
 
   # PATCH/PUT /comments/1
   def update
-    if @comment.user == current_user && @comment.update(comment_params)
+    if @comment.user == current_api_user && @comment.update(comment_params)
       render json: @comment
     else
       render json: @comment.errors, status: :unprocessable_entity
@@ -23,7 +25,7 @@ class Api::V2::CommentsController < ApplicationController
 
   # DELETE /comments/1
   def destroy
-    @comment.destroy if @comment.user == current_user
+    @comment.destroy if @comment.user == current_api_user
   end
 
   private

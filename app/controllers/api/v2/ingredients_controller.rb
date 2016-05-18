@@ -1,5 +1,5 @@
 class Api::V2::IngredientsController < ApplicationController
-  before_action :authenticate_user!
+  before_action :authenticate_api_user!
 
   # GET /ingredients
   def index

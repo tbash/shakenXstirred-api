@@ -1,10 +1,10 @@
 class Api::V2::PostsController < ApplicationController
-  before_action :authenticate_user!
+  before_action authenticate_api_user!
   before_action :set_post, only: [:show, :update, :destroy]
 
   # GET /posts
   def index
-    @posts = current_user.followed.map(&:posts)
+    @posts = current_api_user.followed.map(&:posts)
 
     render json: @posts
   end
@@ -16,7 +16,7 @@ class Api::V2::PostsController < ApplicationController
 
   # POST /posts
   def create
-    @post = current_user.posts.new(post_params)
+    @post = current_api_user.posts.new(post_params)
 
     if @post.save
       render json: @post, status: :created, location: @post
@@ -27,7 +27,7 @@ class Api::V2::PostsController < ApplicationController
 
   # PATCH/PUT /posts/1
   def update
-    if current_user == @post.user && @post.update(post_params)
+    if current_api_user == @post.user && @post.update(post_params)
       render json: @post
     else
       render json: @post.errors, status: :unprocessable_entity
@@ -36,7 +36,7 @@ class Api::V2::PostsController < ApplicationController
 
   # DELETE /posts/1
   def destroy
-    @post.destroy if current_user == @post.user
+    @post.destroy if current_api_user == @post.user
   end
 
   private

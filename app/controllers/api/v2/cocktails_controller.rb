@@ -1,5 +1,5 @@
 class Api::V2::CocktailsController < ApplicationController
-  before_action :authenticate_user!
+  before_action :authenticate_api_user!
   before_action :set_cocktail, only: [:show, :unsave_cocktail, :save_cocktail]
 
   # GET /cocktails
@@ -16,15 +16,15 @@ class Api::V2::CocktailsController < ApplicationController
 
   # PUT /cocktailss/1/save_cocktail
   def save_cocktail
-    unless current_user.saved_cocktail? @cocktial
-      current_user.save_cocktail @cocktial
+    unless current_api_user.saved_cocktail? @cocktial
+      current_api_user.save_cocktail @cocktial
     end
   end
 
   # DELETE /cocktails/1/unsave_cocktail
   def unsave_cocktail
-    if current_user.saved_cocktail? @cocktial
-      current_user.unsave_cocktail @cocktial
+    if current_api_user.saved_cocktail? @cocktial
+      current_api_user.unsave_cocktail @cocktial
     end
   end
 
