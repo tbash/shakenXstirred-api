@@ -1,3 +1,12 @@
+GIT
+  remote: git://github.com/lynndylanhurley/devise_token_auth.git
+  revision: 1d6dbdc2e5ba2de00264362a8a876dc98585bd0c
+  branch: master
+  specs:
+    devise_token_auth (0.1.37)
+      devise (> 3.5.2, < 4.1.1)
+      rails (< 6)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -63,9 +72,6 @@ GEM
       railties (>= 4.1.0, < 5.1)
       responders
       warden (~> 1.2.3)
-    devise_token_auth (0.1.37)
-      devise (> 3.5.2, < 4.1)
-      rails (< 6)
     erubis (2.7.0)
     globalid (0.3.6)
       activesupport (>= 4.1.0)
@@ -157,7 +163,7 @@ DEPENDENCIES
   aws-sdk (~> 2.2, >= 2.2.31)
   byebug
   devise (~> 4.0.0.rc1)
-  devise_token_auth
+  devise_token_auth!
   paperclip (~> 5.0.0.beta2)
   pg (~> 0.18)
   puma
