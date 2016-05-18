@@ -13,13 +13,14 @@ unless Rails.env.production?
 
   users_config["users_ingredients"].each do |u_i|
     user = User.find(u_i["user_id"].to_i)
-    user.update_inventory(u_i["ingredient_id"].split(",").map(&:to_i))
+    user.update(ingredient_ids: u_i["ingredient_id"].split(",").map(&:to_i))
   end
 
-  users_config["follows"].each do |f|
-    follower = User.find(f["follower_id"].to_i)
-    followee = User.find(f["followee_id"].to_i)
-    follower.follow followee
-  end
+  # NOTE (tbash): Uncomment for V2 release testing
+  # users_config["follows"].each do |f|
+  #   follower = User.find(f["follower_id"].to_i)
+  #   followee = User.find(f["followee_id"].to_i)
+  #   follower.follow followee
+  # end
 end
 
