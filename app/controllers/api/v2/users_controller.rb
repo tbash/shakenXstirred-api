@@ -1,5 +1,5 @@
 class Api::V2::UsersController < ApplicationController
-  before_action authenticate_api_user!
+  before_action :authenticate_api_user!
   before_action :set_user, only: [:show, :follow, :unfollow]
 
   # GET /me

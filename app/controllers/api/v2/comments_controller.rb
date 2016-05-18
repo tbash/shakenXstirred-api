@@ -1,5 +1,5 @@
 class Api::V2::CommentsController < ApplicationController
-  before_action authenticate_api_user!
+  before_action :authenticate_api_user!
   before_action :set_comment, only: [:update, :destroy]
 
 
