@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  constraints subdomain: "api" do
+  # constraints subdomain: "api" do
     namespace :api, path: nil, except: [:new, :edit] do
       scope module: :v2, constraints: ApiConstraints.new(version: 2) do
         resources :cocktails,   only: [:index, :show], param: :name do
@@ -44,5 +44,5 @@ Rails.application.routes.draw do
 
       mount_devise_token_auth_for "User", at: "auth"
     end
-  end
+  # end
 end
