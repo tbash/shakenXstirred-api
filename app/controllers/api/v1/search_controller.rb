@@ -5,10 +5,11 @@ class Api::V1::SearchController < ApplicationController
   def index
     results = []
     q = search_params[:q]
+    p = search_params[:p].to_i
 
     if q
-      results << Cocktail.search(q)
-      results << Ingredient.search(q)
+      results << Cocktail.search(q, p)
+      results << Ingredient.search(q, p)
     end
 
     render json: results.flatten

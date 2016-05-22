@@ -7,8 +7,11 @@ class Cocktail < ApplicationRecord
   after_initialize :generate_mix, if: :new_record?
   default_scope { order(name: :asc) }
 
-  def self.search(q)
-    where("name LIKE ? OR recipe LIKE ?", "%#{q}%", "%#{q}%")
+  def self.search(q, p = 0)
+    p_size = 10
+    q.downcase!
+    p *= p_size
+    where("lower(name) LIKE ? OR lower(recipe) LIKE ?", "%#{q}%", "%#{q}%").limit(10).offset(p)
   end
 
   def number_of_saves
