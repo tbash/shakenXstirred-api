@@ -5,9 +5,9 @@ class Api::V2::SearchController < ApplicationController
   def index
     results = []
     q = search_params[:q]
-    p = search_params[:p]&.to_i
+    p = search_params[:p].to_i if search_params[:p]
 
-    if q
+    if q.present?
       results << Cocktail.search(q, p)
       results << Ingredient.search(q, p)
     end
@@ -21,4 +21,3 @@ class Api::V2::SearchController < ApplicationController
       params.require(:search).permit(:q, :p)
     end
 end
-nd
