@@ -16,6 +16,7 @@ Rails.application.routes.draw do
           end
           resources :comments,  only: [:create, :update, :destroy]
         end
+        resources :search,      only: [:index]
         resource :user,         only: [] do
           get :me,               on: :member
           put :update_inventory, on: :member
@@ -36,6 +37,7 @@ Rails.application.routes.draw do
           end
         end
         resources :ingredients, only: [:index]
+        resources :search,      only: [:index]
         resource :user,         only: [] do
           get :me, on: :member
           put :update_inventory, on: :member
