@@ -5,7 +5,7 @@ class Api::V1::SearchController < ApplicationController
   def index
     results = []
     q = search_params[:q]
-    p = search_params[:p].to_i
+    p = search_params[:p]&.to_i
 
     if q
       results << Cocktail.search(q, p)
@@ -18,6 +18,6 @@ class Api::V1::SearchController < ApplicationController
   private
     # Only allow a trusted parameter "white list" through.
     def search_params
-      params.require(:search).permit(:q)
+      params.require(:search).permit(:q, :p)
     end
 end
